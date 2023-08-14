@@ -1,0 +1,8669 @@
+[
+    {
+        "ndex": "#0460",
+        "pokemon": "Abomasnow",
+        "pokemon_url": "/wiki/Abomasnow_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0063",
+        "pokemon": "Abra",
+        "pokemon_url": "/wiki/Abra_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0359",
+        "pokemon": "Absol",
+        "pokemon_url": "/wiki/Absol_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0617",
+        "pokemon": "Accelgor",
+        "pokemon_url": "/wiki/Accelgor_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0681",
+        "pokemon": "Aegislash",
+        "pokemon_url": "/wiki/Aegislash_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0142",
+        "pokemon": "Aerodactyl",
+        "pokemon_url": "/wiki/Aerodactyl_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0306",
+        "pokemon": "Aggron",
+        "pokemon_url": "/wiki/Aggron_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0190",
+        "pokemon": "Aipom",
+        "pokemon_url": "/wiki/Aipom_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0065",
+        "pokemon": "Alakazam",
+        "pokemon_url": "/wiki/Alakazam_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0869",
+        "pokemon": "Alcremie",
+        "pokemon_url": "/wiki/Alcremie_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0594",
+        "pokemon": "Alomomola",
+        "pokemon_url": "/wiki/Alomomola_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0334",
+        "pokemon": "Altaria",
+        "pokemon_url": "/wiki/Altaria_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0698",
+        "pokemon": "Amaura",
+        "pokemon_url": "/wiki/Amaura_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0424",
+        "pokemon": "Ambipom",
+        "pokemon_url": "/wiki/Ambipom_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0591",
+        "pokemon": "Amoonguss",
+        "pokemon_url": "/wiki/Amoonguss_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0181",
+        "pokemon": "Ampharos",
+        "pokemon_url": "/wiki/Ampharos_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0979",
+        "pokemon": "Annihilape",
+        "pokemon_url": "/wiki/Annihilape_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0347",
+        "pokemon": "Anorith",
+        "pokemon_url": "/wiki/Anorith_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0842",
+        "pokemon": "Appletun",
+        "pokemon_url": "/wiki/Appletun_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0840",
+        "pokemon": "Applin",
+        "pokemon_url": "/wiki/Applin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0752",
+        "pokemon": "Araquanid",
+        "pokemon_url": "/wiki/Araquanid_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0024",
+        "pokemon": "Arbok",
+        "pokemon_url": "/wiki/Arbok_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0930",
+        "pokemon": "Arboliva",
+        "pokemon_url": "/wiki/Arboliva_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0059",
+        "pokemon": "Arcanine",
+        "pokemon_url": "/wiki/Arcanine_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0493",
+        "pokemon": "Arceus",
+        "pokemon_url": "/wiki/Arceus_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Archaludon",
+        "pokemon_url": "/wiki/Archaludon_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0566",
+        "pokemon": "Archen",
+        "pokemon_url": "/wiki/Archen_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0567",
+        "pokemon": "Archeops",
+        "pokemon_url": "/wiki/Archeops_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0997",
+        "pokemon": "Arctibax",
+        "pokemon_url": "/wiki/Arctibax_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0883",
+        "pokemon": "Arctovish",
+        "pokemon_url": "/wiki/Arctovish_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0881",
+        "pokemon": "Arctozolt",
+        "pokemon_url": "/wiki/Arctozolt_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0168",
+        "pokemon": "Ariados",
+        "pokemon_url": "/wiki/Ariados_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0348",
+        "pokemon": "Armaldo",
+        "pokemon_url": "/wiki/Armaldo_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0936",
+        "pokemon": "Armarouge",
+        "pokemon_url": "/wiki/Armarouge_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0683",
+        "pokemon": "Aromatisse",
+        "pokemon_url": "/wiki/Aromatisse_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0304",
+        "pokemon": "Aron",
+        "pokemon_url": "/wiki/Aron_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0846",
+        "pokemon": "Arrokuda",
+        "pokemon_url": "/wiki/Arrokuda_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0144",
+        "pokemon": "Articuno",
+        "pokemon_url": "/wiki/Articuno_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0531",
+        "pokemon": "Audino",
+        "pokemon_url": "/wiki/Audino_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0699",
+        "pokemon": "Aurorus",
+        "pokemon_url": "/wiki/Aurorus_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0713",
+        "pokemon": "Avalugg",
+        "pokemon_url": "/wiki/Avalugg_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0610",
+        "pokemon": "Axew",
+        "pokemon_url": "/wiki/Axew_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0482",
+        "pokemon": "Azelf",
+        "pokemon_url": "/wiki/Azelf_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0184",
+        "pokemon": "Azumarill",
+        "pokemon_url": "/wiki/Azumarill_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0298",
+        "pokemon": "Azurill",
+        "pokemon_url": "/wiki/Azurill_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0371",
+        "pokemon": "Bagon",
+        "pokemon_url": "/wiki/Bagon_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0343",
+        "pokemon": "Baltoy",
+        "pokemon_url": "/wiki/Baltoy_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0354",
+        "pokemon": "Banette",
+        "pokemon_url": "/wiki/Banette_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0689",
+        "pokemon": "Barbaracle",
+        "pokemon_url": "/wiki/Barbaracle_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0339",
+        "pokemon": "Barboach",
+        "pokemon_url": "/wiki/Barboach_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0847",
+        "pokemon": "Barraskewda",
+        "pokemon_url": "/wiki/Barraskewda_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0902",
+        "pokemon": "Basculegion",
+        "pokemon_url": "/wiki/Basculegion_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0550",
+        "pokemon": "Basculin",
+        "pokemon_url": "/wiki/Basculin_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0411",
+        "pokemon": "Bastiodon",
+        "pokemon_url": "/wiki/Bastiodon_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0998",
+        "pokemon": "Baxcalibur",
+        "pokemon_url": "/wiki/Baxcalibur_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0153",
+        "pokemon": "Bayleef",
+        "pokemon_url": "/wiki/Bayleef_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0614",
+        "pokemon": "Beartic",
+        "pokemon_url": "/wiki/Beartic_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0267",
+        "pokemon": "Beautifly",
+        "pokemon_url": "/wiki/Beautifly_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0015",
+        "pokemon": "Beedrill",
+        "pokemon_url": "/wiki/Beedrill_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0606",
+        "pokemon": "Beheeyem",
+        "pokemon_url": "/wiki/Beheeyem_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0374",
+        "pokemon": "Beldum",
+        "pokemon_url": "/wiki/Beldum_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0939",
+        "pokemon": "Bellibolt",
+        "pokemon_url": "/wiki/Bellibolt_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0182",
+        "pokemon": "Bellossom",
+        "pokemon_url": "/wiki/Bellossom_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0069",
+        "pokemon": "Bellsprout",
+        "pokemon_url": "/wiki/Bellsprout_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0712",
+        "pokemon": "Bergmite",
+        "pokemon_url": "/wiki/Bergmite_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0760",
+        "pokemon": "Bewear",
+        "pokemon_url": "/wiki/Bewear_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0400",
+        "pokemon": "Bibarel",
+        "pokemon_url": "/wiki/Bibarel_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0399",
+        "pokemon": "Bidoof",
+        "pokemon_url": "/wiki/Bidoof_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0688",
+        "pokemon": "Binacle",
+        "pokemon_url": "/wiki/Binacle_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0625",
+        "pokemon": "Bisharp",
+        "pokemon_url": "/wiki/Bisharp_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0806",
+        "pokemon": "Blacephalon",
+        "pokemon_url": "/wiki/Blacephalon_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0009",
+        "pokemon": "Blastoise",
+        "pokemon_url": "/wiki/Blastoise_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0257",
+        "pokemon": "Blaziken",
+        "pokemon_url": "/wiki/Blaziken_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0824",
+        "pokemon": "Blipbug",
+        "pokemon_url": "/wiki/Blipbug_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0242",
+        "pokemon": "Blissey",
+        "pokemon_url": "/wiki/Blissey_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0522",
+        "pokemon": "Blitzle",
+        "pokemon_url": "/wiki/Blitzle_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0525",
+        "pokemon": "Boldore",
+        "pokemon_url": "/wiki/Boldore_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0836",
+        "pokemon": "Boltund",
+        "pokemon_url": "/wiki/Boltund_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0962",
+        "pokemon": "Bombirdier",
+        "pokemon_url": "/wiki/Bombirdier_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0438",
+        "pokemon": "Bonsly",
+        "pokemon_url": "/wiki/Bonsly_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0626",
+        "pokemon": "Bouffalant",
+        "pokemon_url": "/wiki/Bouffalant_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0761",
+        "pokemon": "Bounsweet",
+        "pokemon_url": "/wiki/Bounsweet_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0654",
+        "pokemon": "Braixen",
+        "pokemon_url": "/wiki/Braixen_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0947",
+        "pokemon": "Brambleghast",
+        "pokemon_url": "/wiki/Brambleghast_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0946",
+        "pokemon": "Bramblin",
+        "pokemon_url": "/wiki/Bramblin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0628",
+        "pokemon": "Braviary",
+        "pokemon_url": "/wiki/Braviary_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0286",
+        "pokemon": "Breloom",
+        "pokemon_url": "/wiki/Breloom_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0729",
+        "pokemon": "Brionne",
+        "pokemon_url": "/wiki/Brionne_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0437",
+        "pokemon": "Bronzong",
+        "pokemon_url": "/wiki/Bronzong_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0436",
+        "pokemon": "Bronzor",
+        "pokemon_url": "/wiki/Bronzor_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0986",
+        "pokemon": "Brute Bonnet",
+        "pokemon_url": "/wiki/Brute_Bonnet_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0779",
+        "pokemon": "Bruxish",
+        "pokemon_url": "/wiki/Bruxish_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0406",
+        "pokemon": "Budew",
+        "pokemon_url": "/wiki/Budew_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0418",
+        "pokemon": "Buizel",
+        "pokemon_url": "/wiki/Buizel_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0001",
+        "pokemon": "Bulbasaur",
+        "pokemon_url": "/wiki/Bulbasaur_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0427",
+        "pokemon": "Buneary",
+        "pokemon_url": "/wiki/Buneary_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0659",
+        "pokemon": "Bunnelby",
+        "pokemon_url": "/wiki/Bunnelby_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0412",
+        "pokemon": "Burmy",
+        "pokemon_url": "/wiki/Burmy_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0012",
+        "pokemon": "Butterfree",
+        "pokemon_url": "/wiki/Butterfree_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0794",
+        "pokemon": "Buzzwole",
+        "pokemon_url": "/wiki/Buzzwole_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0331",
+        "pokemon": "Cacnea",
+        "pokemon_url": "/wiki/Cacnea_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0332",
+        "pokemon": "Cacturne",
+        "pokemon_url": "/wiki/Cacturne_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0898",
+        "pokemon": "Calyrex",
+        "pokemon_url": "/wiki/Calyrex_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0323",
+        "pokemon": "Camerupt",
+        "pokemon_url": "/wiki/Camerupt_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0951",
+        "pokemon": "Capsakid",
+        "pokemon_url": "/wiki/Capsakid_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0703",
+        "pokemon": "Carbink",
+        "pokemon_url": "/wiki/Carbink_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0838",
+        "pokemon": "Carkol",
+        "pokemon_url": "/wiki/Carkol_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0455",
+        "pokemon": "Carnivine",
+        "pokemon_url": "/wiki/Carnivine_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0565",
+        "pokemon": "Carracosta",
+        "pokemon_url": "/wiki/Carracosta_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0318",
+        "pokemon": "Carvanha",
+        "pokemon_url": "/wiki/Carvanha_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0268",
+        "pokemon": "Cascoon",
+        "pokemon_url": "/wiki/Cascoon_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0351",
+        "pokemon": "Castform",
+        "pokemon_url": "/wiki/Castform_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0010",
+        "pokemon": "Caterpie",
+        "pokemon_url": "/wiki/Caterpie_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0251",
+        "pokemon": "Celebi",
+        "pokemon_url": "/wiki/Celebi_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0797",
+        "pokemon": "Celesteela",
+        "pokemon_url": "/wiki/Celesteela_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0851",
+        "pokemon": "Centiskorch",
+        "pokemon_url": "/wiki/Centiskorch_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0937",
+        "pokemon": "Ceruledge",
+        "pokemon_url": "/wiki/Ceruledge_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0975",
+        "pokemon": "Cetitan",
+        "pokemon_url": "/wiki/Cetitan_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0974",
+        "pokemon": "Cetoddle",
+        "pokemon_url": "/wiki/Cetoddle_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0609",
+        "pokemon": "Chandelure",
+        "pokemon_url": "/wiki/Chandelure_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0113",
+        "pokemon": "Chansey",
+        "pokemon_url": "/wiki/Chansey_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0935",
+        "pokemon": "Charcadet",
+        "pokemon_url": "/wiki/Charcadet_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0006",
+        "pokemon": "Charizard",
+        "pokemon_url": "/wiki/Charizard_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0737",
+        "pokemon": "Charjabug",
+        "pokemon_url": "/wiki/Charjabug_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0004",
+        "pokemon": "Charmander",
+        "pokemon_url": "/wiki/Charmander_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0005",
+        "pokemon": "Charmeleon",
+        "pokemon_url": "/wiki/Charmeleon_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0441",
+        "pokemon": "Chatot",
+        "pokemon_url": "/wiki/Chatot_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0421",
+        "pokemon": "Cherrim",
+        "pokemon_url": "/wiki/Cherrim_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0420",
+        "pokemon": "Cherubi",
+        "pokemon_url": "/wiki/Cherubi_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0652",
+        "pokemon": "Chesnaught",
+        "pokemon_url": "/wiki/Chesnaught_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0650",
+        "pokemon": "Chespin",
+        "pokemon_url": "/wiki/Chespin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0833",
+        "pokemon": "Chewtle",
+        "pokemon_url": "/wiki/Chewtle_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#1004",
+        "pokemon": "Chi-Yu",
+        "pokemon_url": "/wiki/Chi-Yu_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#1002",
+        "pokemon": "Chien-Pao",
+        "pokemon_url": "/wiki/Chien-Pao_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0152",
+        "pokemon": "Chikorita",
+        "pokemon_url": "/wiki/Chikorita_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0390",
+        "pokemon": "Chimchar",
+        "pokemon_url": "/wiki/Chimchar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0358",
+        "pokemon": "Chimecho",
+        "pokemon_url": "/wiki/Chimecho_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0170",
+        "pokemon": "Chinchou",
+        "pokemon_url": "/wiki/Chinchou_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0433",
+        "pokemon": "Chingling",
+        "pokemon_url": "/wiki/Chingling_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0573",
+        "pokemon": "Cinccino",
+        "pokemon_url": "/wiki/Cinccino_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0815",
+        "pokemon": "Cinderace",
+        "pokemon_url": "/wiki/Cinderace_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0366",
+        "pokemon": "Clamperl",
+        "pokemon_url": "/wiki/Clamperl_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0692",
+        "pokemon": "Clauncher",
+        "pokemon_url": "/wiki/Clauncher_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0693",
+        "pokemon": "Clawitzer",
+        "pokemon_url": "/wiki/Clawitzer_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0344",
+        "pokemon": "Claydol",
+        "pokemon_url": "/wiki/Claydol_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0036",
+        "pokemon": "Clefable",
+        "pokemon_url": "/wiki/Clefable_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0035",
+        "pokemon": "Clefairy",
+        "pokemon_url": "/wiki/Clefairy_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0173",
+        "pokemon": "Cleffa",
+        "pokemon_url": "/wiki/Cleffa_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0852",
+        "pokemon": "Clobbopus",
+        "pokemon_url": "/wiki/Clobbopus_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0980",
+        "pokemon": "Clodsire",
+        "pokemon_url": "/wiki/Clodsire_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0091",
+        "pokemon": "Cloyster",
+        "pokemon_url": "/wiki/Cloyster_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0839",
+        "pokemon": "Coalossal",
+        "pokemon_url": "/wiki/Coalossal_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0638",
+        "pokemon": "Cobalion",
+        "pokemon_url": "/wiki/Cobalion_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0563",
+        "pokemon": "Cofagrigus",
+        "pokemon_url": "/wiki/Cofagrigus_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0415",
+        "pokemon": "Combee",
+        "pokemon_url": "/wiki/Combee_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0256",
+        "pokemon": "Combusken",
+        "pokemon_url": "/wiki/Combusken_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0764",
+        "pokemon": "Comfey",
+        "pokemon_url": "/wiki/Comfey_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0534",
+        "pokemon": "Conkeldurr",
+        "pokemon_url": "/wiki/Conkeldurr_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0879",
+        "pokemon": "Copperajah",
+        "pokemon_url": "/wiki/Copperajah_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0341",
+        "pokemon": "Corphish",
+        "pokemon_url": "/wiki/Corphish_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0222",
+        "pokemon": "Corsola",
+        "pokemon_url": "/wiki/Corsola_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0823",
+        "pokemon": "Corviknight",
+        "pokemon_url": "/wiki/Corviknight_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0822",
+        "pokemon": "Corvisquire",
+        "pokemon_url": "/wiki/Corvisquire_(Pok%C3%A9mon)",
+        "type": [
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0790",
+        "pokemon": "Cosmoem",
+        "pokemon_url": "/wiki/Cosmoem_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0789",
+        "pokemon": "Cosmog",
+        "pokemon_url": "/wiki/Cosmog_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0546",
+        "pokemon": "Cottonee",
+        "pokemon_url": "/wiki/Cottonee_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0740",
+        "pokemon": "Crabominable",
+        "pokemon_url": "/wiki/Crabominable_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0739",
+        "pokemon": "Crabrawler",
+        "pokemon_url": "/wiki/Crabrawler_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0346",
+        "pokemon": "Cradily",
+        "pokemon_url": "/wiki/Cradily_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0845",
+        "pokemon": "Cramorant",
+        "pokemon_url": "/wiki/Cramorant_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0408",
+        "pokemon": "Cranidos",
+        "pokemon_url": "/wiki/Cranidos_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0342",
+        "pokemon": "Crawdaunt",
+        "pokemon_url": "/wiki/Crawdaunt_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0488",
+        "pokemon": "Cresselia",
+        "pokemon_url": "/wiki/Cresselia_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0453",
+        "pokemon": "Croagunk",
+        "pokemon_url": "/wiki/Croagunk_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0169",
+        "pokemon": "Crobat",
+        "pokemon_url": "/wiki/Crobat_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0910",
+        "pokemon": "Crocalor",
+        "pokemon_url": "/wiki/Crocalor_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0159",
+        "pokemon": "Croconaw",
+        "pokemon_url": "/wiki/Croconaw_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0558",
+        "pokemon": "Crustle",
+        "pokemon_url": "/wiki/Crustle_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0615",
+        "pokemon": "Cryogonal",
+        "pokemon_url": "/wiki/Cryogonal_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0613",
+        "pokemon": "Cubchoo",
+        "pokemon_url": "/wiki/Cubchoo_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0104",
+        "pokemon": "Cubone",
+        "pokemon_url": "/wiki/Cubone_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0878",
+        "pokemon": "Cufant",
+        "pokemon_url": "/wiki/Cufant_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0864",
+        "pokemon": "Cursola",
+        "pokemon_url": "/wiki/Cursola_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0742",
+        "pokemon": "Cutiefly",
+        "pokemon_url": "/wiki/Cutiefly_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0967",
+        "pokemon": "Cyclizar",
+        "pokemon_url": "/wiki/Cyclizar_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0155",
+        "pokemon": "Cyndaquil",
+        "pokemon_url": "/wiki/Cyndaquil_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0927",
+        "pokemon": "Dachsbun",
+        "pokemon_url": "/wiki/Dachsbun_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0491",
+        "pokemon": "Darkrai",
+        "pokemon_url": "/wiki/Darkrai_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0555",
+        "pokemon": "Darmanitan",
+        "pokemon_url": "/wiki/Darmanitan_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0723",
+        "pokemon": "Dartrix",
+        "pokemon_url": "/wiki/Dartrix_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0554",
+        "pokemon": "Darumaka",
+        "pokemon_url": "/wiki/Darumaka_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0724",
+        "pokemon": "Decidueye",
+        "pokemon_url": "/wiki/Decidueye_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0702",
+        "pokemon": "Dedenne",
+        "pokemon_url": "/wiki/Dedenne_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0585",
+        "pokemon": "Deerling",
+        "pokemon_url": "/wiki/Deerling_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0633",
+        "pokemon": "Deino",
+        "pokemon_url": "/wiki/Deino_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0301",
+        "pokemon": "Delcatty",
+        "pokemon_url": "/wiki/Delcatty_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0225",
+        "pokemon": "Delibird",
+        "pokemon_url": "/wiki/Delibird_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0655",
+        "pokemon": "Delphox",
+        "pokemon_url": "/wiki/Delphox_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0386",
+        "pokemon": "Deoxys",
+        "pokemon_url": "/wiki/Deoxys_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0087",
+        "pokemon": "Dewgong",
+        "pokemon_url": "/wiki/Dewgong_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0502",
+        "pokemon": "Dewott",
+        "pokemon_url": "/wiki/Dewott_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0751",
+        "pokemon": "Dewpider",
+        "pokemon_url": "/wiki/Dewpider_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0781",
+        "pokemon": "Dhelmise",
+        "pokemon_url": "/wiki/Dhelmise_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0483",
+        "pokemon": "Dialga",
+        "pokemon_url": "/wiki/Dialga_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0719",
+        "pokemon": "Diancie",
+        "pokemon_url": "/wiki/Diancie_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0660",
+        "pokemon": "Diggersby",
+        "pokemon_url": "/wiki/Diggersby_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0050",
+        "pokemon": "Diglett",
+        "pokemon_url": "/wiki/Diglett_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0132",
+        "pokemon": "Ditto",
+        "pokemon_url": "/wiki/Ditto_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Dipplin",
+        "pokemon_url": "/wiki/Dipplin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0085",
+        "pokemon": "Dodrio",
+        "pokemon_url": "/wiki/Dodrio_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0084",
+        "pokemon": "Doduo",
+        "pokemon_url": "/wiki/Doduo_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0929",
+        "pokemon": "Dolliv",
+        "pokemon_url": "/wiki/Dolliv_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0977",
+        "pokemon": "Dondozo",
+        "pokemon_url": "/wiki/Dondozo_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0232",
+        "pokemon": "Donphan",
+        "pokemon_url": "/wiki/Donphan_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0825",
+        "pokemon": "Dottler",
+        "pokemon_url": "/wiki/Dottler_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0680",
+        "pokemon": "Doublade",
+        "pokemon_url": "/wiki/Doublade_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0882",
+        "pokemon": "Dracovish",
+        "pokemon_url": "/wiki/Dracovish_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0880",
+        "pokemon": "Dracozolt",
+        "pokemon_url": "/wiki/Dracozolt_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0691",
+        "pokemon": "Dragalge",
+        "pokemon_url": "/wiki/Dragalge_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0887",
+        "pokemon": "Dragapult",
+        "pokemon_url": "/wiki/Dragapult_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0148",
+        "pokemon": "Dragonair",
+        "pokemon_url": "/wiki/Dragonair_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0149",
+        "pokemon": "Dragonite",
+        "pokemon_url": "/wiki/Dragonite_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0886",
+        "pokemon": "Drakloak",
+        "pokemon_url": "/wiki/Drakloak_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0780",
+        "pokemon": "Drampa",
+        "pokemon_url": "/wiki/Drampa_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0452",
+        "pokemon": "Drapion",
+        "pokemon_url": "/wiki/Drapion_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0147",
+        "pokemon": "Dratini",
+        "pokemon_url": "/wiki/Dratini_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0834",
+        "pokemon": "Drednaw",
+        "pokemon_url": "/wiki/Drednaw_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0885",
+        "pokemon": "Dreepy",
+        "pokemon_url": "/wiki/Dreepy_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0426",
+        "pokemon": "Drifblim",
+        "pokemon_url": "/wiki/Drifblim_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0425",
+        "pokemon": "Drifloon",
+        "pokemon_url": "/wiki/Drifloon_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0529",
+        "pokemon": "Drilbur",
+        "pokemon_url": "/wiki/Drilbur_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0817",
+        "pokemon": "Drizzile",
+        "pokemon_url": "/wiki/Drizzile_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0096",
+        "pokemon": "Drowzee",
+        "pokemon_url": "/wiki/Drowzee_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0621",
+        "pokemon": "Druddigon",
+        "pokemon_url": "/wiki/Druddigon_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0832",
+        "pokemon": "Dubwool",
+        "pokemon_url": "/wiki/Dubwool_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0580",
+        "pokemon": "Ducklett",
+        "pokemon_url": "/wiki/Ducklett_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0982",
+        "pokemon": "Dudunsparce",
+        "pokemon_url": "/wiki/Dudunsparce_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0051",
+        "pokemon": "Dugtrio",
+        "pokemon_url": "/wiki/Dugtrio_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0206",
+        "pokemon": "Dunsparce",
+        "pokemon_url": "/wiki/Dunsparce_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0578",
+        "pokemon": "Duosion",
+        "pokemon_url": "/wiki/Duosion_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0884",
+        "pokemon": "Duraludon",
+        "pokemon_url": "/wiki/Duraludon_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0632",
+        "pokemon": "Durant",
+        "pokemon_url": "/wiki/Durant_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0356",
+        "pokemon": "Dusclops",
+        "pokemon_url": "/wiki/Dusclops_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0477",
+        "pokemon": "Dusknoir",
+        "pokemon_url": "/wiki/Dusknoir_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0355",
+        "pokemon": "Duskull",
+        "pokemon_url": "/wiki/Duskull_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0269",
+        "pokemon": "Dustox",
+        "pokemon_url": "/wiki/Dustox_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0557",
+        "pokemon": "Dwebble",
+        "pokemon_url": "/wiki/Dwebble_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0603",
+        "pokemon": "Eelektrik",
+        "pokemon_url": "/wiki/Eelektrik_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0604",
+        "pokemon": "Eelektross",
+        "pokemon_url": "/wiki/Eelektross_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0133",
+        "pokemon": "Eevee",
+        "pokemon_url": "/wiki/Eevee_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0875",
+        "pokemon": "Eiscue",
+        "pokemon_url": "/wiki/Eiscue_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0023",
+        "pokemon": "Ekans",
+        "pokemon_url": "/wiki/Ekans_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0830",
+        "pokemon": "Eldegoss",
+        "pokemon_url": "/wiki/Eldegoss_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0125",
+        "pokemon": "Electabuzz",
+        "pokemon_url": "/wiki/Electabuzz_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0466",
+        "pokemon": "Electivire",
+        "pokemon_url": "/wiki/Electivire_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0309",
+        "pokemon": "Electrike",
+        "pokemon_url": "/wiki/Electrike_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0101",
+        "pokemon": "Electrode",
+        "pokemon_url": "/wiki/Electrode_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0239",
+        "pokemon": "Elekid",
+        "pokemon_url": "/wiki/Elekid_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0605",
+        "pokemon": "Elgyem",
+        "pokemon_url": "/wiki/Elgyem_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0500",
+        "pokemon": "Emboar",
+        "pokemon_url": "/wiki/Emboar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0587",
+        "pokemon": "Emolga",
+        "pokemon_url": "/wiki/Emolga_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0395",
+        "pokemon": "Empoleon",
+        "pokemon_url": "/wiki/Empoleon_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0905",
+        "pokemon": "Enamorus",
+        "pokemon_url": "/wiki/Enamorus_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0244",
+        "pokemon": "Entei",
+        "pokemon_url": "/wiki/Entei_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0589",
+        "pokemon": "Escavalier",
+        "pokemon_url": "/wiki/Escavalier_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0956",
+        "pokemon": "Espathra",
+        "pokemon_url": "/wiki/Espathra_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0196",
+        "pokemon": "Espeon",
+        "pokemon_url": "/wiki/Espeon_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0677",
+        "pokemon": "Espurr",
+        "pokemon_url": "/wiki/Espurr_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0890",
+        "pokemon": "Eternatus",
+        "pokemon_url": "/wiki/Eternatus_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0530",
+        "pokemon": "Excadrill",
+        "pokemon_url": "/wiki/Excadrill_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0102",
+        "pokemon": "Exeggcute",
+        "pokemon_url": "/wiki/Exeggcute_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0103",
+        "pokemon": "Exeggutor",
+        "pokemon_url": "/wiki/Exeggutor_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0295",
+        "pokemon": "Exploud",
+        "pokemon_url": "/wiki/Exploud_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0870",
+        "pokemon": "Falinks",
+        "pokemon_url": "/wiki/Falinks_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0083",
+        "pokemon": "Farfetch'd",
+        "pokemon_url": "/wiki/Farfetch%27d_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0981",
+        "pokemon": "Farigiraf",
+        "pokemon_url": "/wiki/Farigiraf_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0022",
+        "pokemon": "Fearow",
+        "pokemon_url": "/wiki/Fearow_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0349",
+        "pokemon": "Feebas",
+        "pokemon_url": "/wiki/Feebas_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0653",
+        "pokemon": "Fennekin",
+        "pokemon_url": "/wiki/Fennekin_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0160",
+        "pokemon": "Feraligatr",
+        "pokemon_url": "/wiki/Feraligatr_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0597",
+        "pokemon": "Ferroseed",
+        "pokemon_url": "/wiki/Ferroseed_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0598",
+        "pokemon": "Ferrothorn",
+        "pokemon_url": "/wiki/Ferrothorn_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Fezandipiti",
+        "pokemon_url": "/wiki/Fezandipiti_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0926",
+        "pokemon": "Fidough",
+        "pokemon_url": "/wiki/Fidough_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0963",
+        "pokemon": "Finizen",
+        "pokemon_url": "/wiki/Finizen_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0456",
+        "pokemon": "Finneon",
+        "pokemon_url": "/wiki/Finneon_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0180",
+        "pokemon": "Flaaffy",
+        "pokemon_url": "/wiki/Flaaffy_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0669",
+        "pokemon": "Flabébé",
+        "pokemon_url": "/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0973",
+        "pokemon": "Flamigo",
+        "pokemon_url": "/wiki/Flamigo_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0841",
+        "pokemon": "Flapple",
+        "pokemon_url": "/wiki/Flapple_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0136",
+        "pokemon": "Flareon",
+        "pokemon_url": "/wiki/Flareon_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0662",
+        "pokemon": "Fletchinder",
+        "pokemon_url": "/wiki/Fletchinder_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0661",
+        "pokemon": "Fletchling",
+        "pokemon_url": "/wiki/Fletchling_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0955",
+        "pokemon": "Flittle",
+        "pokemon_url": "/wiki/Flittle_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0419",
+        "pokemon": "Floatzel",
+        "pokemon_url": "/wiki/Floatzel_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0670",
+        "pokemon": "Floette",
+        "pokemon_url": "/wiki/Floette_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0907",
+        "pokemon": "Floragato",
+        "pokemon_url": "/wiki/Floragato_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0671",
+        "pokemon": "Florges",
+        "pokemon_url": "/wiki/Florges_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0987",
+        "pokemon": "Flutter Mane",
+        "pokemon_url": "/wiki/Flutter_Mane_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0330",
+        "pokemon": "Flygon",
+        "pokemon_url": "/wiki/Flygon_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0753",
+        "pokemon": "Fomantis",
+        "pokemon_url": "/wiki/Fomantis_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0590",
+        "pokemon": "Foongus",
+        "pokemon_url": "/wiki/Foongus_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0205",
+        "pokemon": "Forretress",
+        "pokemon_url": "/wiki/Forretress_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0611",
+        "pokemon": "Fraxure",
+        "pokemon_url": "/wiki/Fraxure_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0996",
+        "pokemon": "Frigibax",
+        "pokemon_url": "/wiki/Frigibax_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0592",
+        "pokemon": "Frillish",
+        "pokemon_url": "/wiki/Frillish_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0656",
+        "pokemon": "Froakie",
+        "pokemon_url": "/wiki/Froakie_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0657",
+        "pokemon": "Frogadier",
+        "pokemon_url": "/wiki/Frogadier_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0478",
+        "pokemon": "Froslass",
+        "pokemon_url": "/wiki/Froslass_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0873",
+        "pokemon": "Frosmoth",
+        "pokemon_url": "/wiki/Frosmoth_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0909",
+        "pokemon": "Fuecoco",
+        "pokemon_url": "/wiki/Fuecoco_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0676",
+        "pokemon": "Furfrou",
+        "pokemon_url": "/wiki/Furfrou_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0162",
+        "pokemon": "Furret",
+        "pokemon_url": "/wiki/Furret_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0444",
+        "pokemon": "Gabite",
+        "pokemon_url": "/wiki/Gabite_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0475",
+        "pokemon": "Gallade",
+        "pokemon_url": "/wiki/Gallade_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0596",
+        "pokemon": "Galvantula",
+        "pokemon_url": "/wiki/Galvantula_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0569",
+        "pokemon": "Garbodor",
+        "pokemon_url": "/wiki/Garbodor_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0445",
+        "pokemon": "Garchomp",
+        "pokemon_url": "/wiki/Garchomp_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0282",
+        "pokemon": "Gardevoir",
+        "pokemon_url": "/wiki/Gardevoir_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0934",
+        "pokemon": "Garganacl",
+        "pokemon_url": "/wiki/Garganacl_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0092",
+        "pokemon": "Gastly",
+        "pokemon_url": "/wiki/Gastly_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0423",
+        "pokemon": "Gastrodon",
+        "pokemon_url": "/wiki/Gastrodon_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0649",
+        "pokemon": "Genesect",
+        "pokemon_url": "/wiki/Genesect_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0094",
+        "pokemon": "Gengar",
+        "pokemon_url": "/wiki/Gengar_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0074",
+        "pokemon": "Geodude",
+        "pokemon_url": "/wiki/Geodude_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#1000",
+        "pokemon": "Gholdengo",
+        "pokemon_url": "/wiki/Gholdengo_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0443",
+        "pokemon": "Gible",
+        "pokemon_url": "/wiki/Gible_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0526",
+        "pokemon": "Gigalith",
+        "pokemon_url": "/wiki/Gigalith_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0999",
+        "pokemon": "Gimmighoul",
+        "pokemon_url": "/wiki/Gimmighoul_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0203",
+        "pokemon": "Girafarig",
+        "pokemon_url": "/wiki/Girafarig_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0487",
+        "pokemon": "Giratina",
+        "pokemon_url": "/wiki/Giratina_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0471",
+        "pokemon": "Glaceon",
+        "pokemon_url": "/wiki/Glaceon_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0362",
+        "pokemon": "Glalie",
+        "pokemon_url": "/wiki/Glalie_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0431",
+        "pokemon": "Glameow",
+        "pokemon_url": "/wiki/Glameow_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0896",
+        "pokemon": "Glastrier",
+        "pokemon_url": "/wiki/Glastrier_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0207",
+        "pokemon": "Gligar",
+        "pokemon_url": "/wiki/Gligar_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0969",
+        "pokemon": "Glimmet",
+        "pokemon_url": "/wiki/Glimmet_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0970",
+        "pokemon": "Glimmora",
+        "pokemon_url": "/wiki/Glimmora_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0472",
+        "pokemon": "Gliscor",
+        "pokemon_url": "/wiki/Gliscor_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0044",
+        "pokemon": "Gloom",
+        "pokemon_url": "/wiki/Gloom_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0673",
+        "pokemon": "Gogoat",
+        "pokemon_url": "/wiki/Gogoat_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0042",
+        "pokemon": "Golbat",
+        "pokemon_url": "/wiki/Golbat_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0118",
+        "pokemon": "Goldeen",
+        "pokemon_url": "/wiki/Goldeen_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0055",
+        "pokemon": "Golduck",
+        "pokemon_url": "/wiki/Golduck_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0076",
+        "pokemon": "Golem",
+        "pokemon_url": "/wiki/Golem_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0622",
+        "pokemon": "Golett",
+        "pokemon_url": "/wiki/Golett_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0768",
+        "pokemon": "Golisopod",
+        "pokemon_url": "/wiki/Golisopod_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0623",
+        "pokemon": "Golurk",
+        "pokemon_url": "/wiki/Golurk_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0706",
+        "pokemon": "Goodra",
+        "pokemon_url": "/wiki/Goodra_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0704",
+        "pokemon": "Goomy",
+        "pokemon_url": "/wiki/Goomy_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0368",
+        "pokemon": "Gorebyss",
+        "pokemon_url": "/wiki/Gorebyss_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0829",
+        "pokemon": "Gossifleur",
+        "pokemon_url": "/wiki/Gossifleur_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0574",
+        "pokemon": "Gothita",
+        "pokemon_url": "/wiki/Gothita_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0576",
+        "pokemon": "Gothitelle",
+        "pokemon_url": "/wiki/Gothitelle_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0575",
+        "pokemon": "Gothorita",
+        "pokemon_url": "/wiki/Gothorita_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0711",
+        "pokemon": "Gourgeist",
+        "pokemon_url": "/wiki/Gourgeist_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0945",
+        "pokemon": "Grafaiai",
+        "pokemon_url": "/wiki/Grafaiai_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0210",
+        "pokemon": "Granbull",
+        "pokemon_url": "/wiki/Granbull_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0853",
+        "pokemon": "Grapploct",
+        "pokemon_url": "/wiki/Grapploct_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0075",
+        "pokemon": "Graveler",
+        "pokemon_url": "/wiki/Graveler_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0984",
+        "pokemon": "Great Tusk",
+        "pokemon_url": "/wiki/Great_Tusk_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0971",
+        "pokemon": "Greavard",
+        "pokemon_url": "/wiki/Greavard_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0820",
+        "pokemon": "Greedent",
+        "pokemon_url": "/wiki/Greedent_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0658",
+        "pokemon": "Greninja",
+        "pokemon_url": "/wiki/Greninja_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0088",
+        "pokemon": "Grimer",
+        "pokemon_url": "/wiki/Grimer_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0861",
+        "pokemon": "Grimmsnarl",
+        "pokemon_url": "/wiki/Grimmsnarl_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0810",
+        "pokemon": "Grookey",
+        "pokemon_url": "/wiki/Grookey_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0388",
+        "pokemon": "Grotle",
+        "pokemon_url": "/wiki/Grotle_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0383",
+        "pokemon": "Groudon",
+        "pokemon_url": "/wiki/Groudon_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0253",
+        "pokemon": "Grovyle",
+        "pokemon_url": "/wiki/Grovyle_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0058",
+        "pokemon": "Growlithe",
+        "pokemon_url": "/wiki/Growlithe_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0736",
+        "pokemon": "Grubbin",
+        "pokemon_url": "/wiki/Grubbin_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0326",
+        "pokemon": "Grumpig",
+        "pokemon_url": "/wiki/Grumpig_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0316",
+        "pokemon": "Gulpin",
+        "pokemon_url": "/wiki/Gulpin_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0735",
+        "pokemon": "Gumshoos",
+        "pokemon_url": "/wiki/Gumshoos_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0533",
+        "pokemon": "Gurdurr",
+        "pokemon_url": "/wiki/Gurdurr_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0799",
+        "pokemon": "Guzzlord",
+        "pokemon_url": "/wiki/Guzzlord_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0130",
+        "pokemon": "Gyarados",
+        "pokemon_url": "/wiki/Gyarados_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0783",
+        "pokemon": "Hakamo-o",
+        "pokemon_url": "/wiki/Hakamo-o_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0440",
+        "pokemon": "Happiny",
+        "pokemon_url": "/wiki/Happiny_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0297",
+        "pokemon": "Hariyama",
+        "pokemon_url": "/wiki/Hariyama_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0856",
+        "pokemon": "Hatenna",
+        "pokemon_url": "/wiki/Hatenna_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0858",
+        "pokemon": "Hatterene",
+        "pokemon_url": "/wiki/Hatterene_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0857",
+        "pokemon": "Hattrem",
+        "pokemon_url": "/wiki/Hattrem_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0093",
+        "pokemon": "Haunter",
+        "pokemon_url": "/wiki/Haunter_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0701",
+        "pokemon": "Hawlucha",
+        "pokemon_url": "/wiki/Hawlucha_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0612",
+        "pokemon": "Haxorus",
+        "pokemon_url": "/wiki/Haxorus_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0631",
+        "pokemon": "Heatmor",
+        "pokemon_url": "/wiki/Heatmor_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0485",
+        "pokemon": "Heatran",
+        "pokemon_url": "/wiki/Heatran_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0695",
+        "pokemon": "Heliolisk",
+        "pokemon_url": "/wiki/Heliolisk_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0694",
+        "pokemon": "Helioptile",
+        "pokemon_url": "/wiki/Helioptile_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0214",
+        "pokemon": "Heracross",
+        "pokemon_url": "/wiki/Heracross_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0507",
+        "pokemon": "Herdier",
+        "pokemon_url": "/wiki/Herdier_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0449",
+        "pokemon": "Hippopotas",
+        "pokemon_url": "/wiki/Hippopotas_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0450",
+        "pokemon": "Hippowdon",
+        "pokemon_url": "/wiki/Hippowdon_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0107",
+        "pokemon": "Hitmonchan",
+        "pokemon_url": "/wiki/Hitmonchan_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0106",
+        "pokemon": "Hitmonlee",
+        "pokemon_url": "/wiki/Hitmonlee_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0237",
+        "pokemon": "Hitmontop",
+        "pokemon_url": "/wiki/Hitmontop_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0250",
+        "pokemon": "Ho-Oh",
+        "pokemon_url": "/wiki/Ho-Oh_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0430",
+        "pokemon": "Honchkrow",
+        "pokemon_url": "/wiki/Honchkrow_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0679",
+        "pokemon": "Honedge",
+        "pokemon_url": "/wiki/Honedge_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0720",
+        "pokemon": "Hoopa",
+        "pokemon_url": "/wiki/Hoopa_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0163",
+        "pokemon": "Hoothoot",
+        "pokemon_url": "/wiki/Hoothoot_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0187",
+        "pokemon": "Hoppip",
+        "pokemon_url": "/wiki/Hoppip_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0116",
+        "pokemon": "Horsea",
+        "pokemon_url": "/wiki/Horsea_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0229",
+        "pokemon": "Houndoom",
+        "pokemon_url": "/wiki/Houndoom_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0228",
+        "pokemon": "Houndour",
+        "pokemon_url": "/wiki/Houndour_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0972",
+        "pokemon": "Houndstone",
+        "pokemon_url": "/wiki/Houndstone_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0367",
+        "pokemon": "Huntail",
+        "pokemon_url": "/wiki/Huntail_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0635",
+        "pokemon": "Hydreigon",
+        "pokemon_url": "/wiki/Hydreigon_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0097",
+        "pokemon": "Hypno",
+        "pokemon_url": "/wiki/Hypno_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0174",
+        "pokemon": "Igglybuff",
+        "pokemon_url": "/wiki/Igglybuff_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0314",
+        "pokemon": "Illumise",
+        "pokemon_url": "/wiki/Illumise_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0859",
+        "pokemon": "Impidimp",
+        "pokemon_url": "/wiki/Impidimp_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0727",
+        "pokemon": "Incineroar",
+        "pokemon_url": "/wiki/Incineroar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0876",
+        "pokemon": "Indeedee",
+        "pokemon_url": "/wiki/Indeedee_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0392",
+        "pokemon": "Infernape",
+        "pokemon_url": "/wiki/Infernape_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0686",
+        "pokemon": "Inkay",
+        "pokemon_url": "/wiki/Inkay_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0818",
+        "pokemon": "Inteleon",
+        "pokemon_url": "/wiki/Inteleon_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0991",
+        "pokemon": "Iron Bundle",
+        "pokemon_url": "/wiki/Iron_Bundle_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Iron Crown",
+        "pokemon_url": "/wiki/Iron_Crown_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0992",
+        "pokemon": "Iron Hands",
+        "pokemon_url": "/wiki/Iron_Hands_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0993",
+        "pokemon": "Iron Jugulis",
+        "pokemon_url": "/wiki/Iron_Jugulis_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#1010",
+        "pokemon": "Iron Leaves",
+        "pokemon_url": "/wiki/Iron_Leaves_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0994",
+        "pokemon": "Iron Moth",
+        "pokemon_url": "/wiki/Iron_Moth_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0995",
+        "pokemon": "Iron Thorns",
+        "pokemon_url": "/wiki/Iron_Thorns_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0990",
+        "pokemon": "Iron Treads",
+        "pokemon_url": "/wiki/Iron_Treads_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#1006",
+        "pokemon": "Iron Valiant",
+        "pokemon_url": "/wiki/Iron_Valiant_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0002",
+        "pokemon": "Ivysaur",
+        "pokemon_url": "/wiki/Ivysaur_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0782",
+        "pokemon": "Jangmo-o",
+        "pokemon_url": "/wiki/Jangmo-o_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0593",
+        "pokemon": "Jellicent",
+        "pokemon_url": "/wiki/Jellicent_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0039",
+        "pokemon": "Jigglypuff",
+        "pokemon_url": "/wiki/Jigglypuff_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0385",
+        "pokemon": "Jirachi",
+        "pokemon_url": "/wiki/Jirachi_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0135",
+        "pokemon": "Jolteon",
+        "pokemon_url": "/wiki/Jolteon_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0595",
+        "pokemon": "Joltik",
+        "pokemon_url": "/wiki/Joltik_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0189",
+        "pokemon": "Jumpluff",
+        "pokemon_url": "/wiki/Jumpluff_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0124",
+        "pokemon": "Jynx",
+        "pokemon_url": "/wiki/Jynx_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0140",
+        "pokemon": "Kabuto",
+        "pokemon_url": "/wiki/Kabuto_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0141",
+        "pokemon": "Kabutops",
+        "pokemon_url": "/wiki/Kabutops_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0064",
+        "pokemon": "Kadabra",
+        "pokemon_url": "/wiki/Kadabra_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0014",
+        "pokemon": "Kakuna",
+        "pokemon_url": "/wiki/Kakuna_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0115",
+        "pokemon": "Kangaskhan",
+        "pokemon_url": "/wiki/Kangaskhan_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0588",
+        "pokemon": "Karrablast",
+        "pokemon_url": "/wiki/Karrablast_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0798",
+        "pokemon": "Kartana",
+        "pokemon_url": "/wiki/Kartana_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0352",
+        "pokemon": "Kecleon",
+        "pokemon_url": "/wiki/Kecleon_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0647",
+        "pokemon": "Keldeo",
+        "pokemon_url": "/wiki/Keldeo_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0941",
+        "pokemon": "Kilowattrel",
+        "pokemon_url": "/wiki/Kilowattrel_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0983",
+        "pokemon": "Kingambit",
+        "pokemon_url": "/wiki/Kingambit_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0230",
+        "pokemon": "Kingdra",
+        "pokemon_url": "/wiki/Kingdra_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0099",
+        "pokemon": "Kingler",
+        "pokemon_url": "/wiki/Kingler_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0281",
+        "pokemon": "Kirlia",
+        "pokemon_url": "/wiki/Kirlia_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0600",
+        "pokemon": "Klang",
+        "pokemon_url": "/wiki/Klang_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0950",
+        "pokemon": "Klawf",
+        "pokemon_url": "/wiki/Klawf_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0900",
+        "pokemon": "Kleavor",
+        "pokemon_url": "/wiki/Kleavor_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0707",
+        "pokemon": "Klefki",
+        "pokemon_url": "/wiki/Klefki_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0599",
+        "pokemon": "Klink",
+        "pokemon_url": "/wiki/Klink_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0601",
+        "pokemon": "Klinklang",
+        "pokemon_url": "/wiki/Klinklang_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0109",
+        "pokemon": "Koffing",
+        "pokemon_url": "/wiki/Koffing_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0775",
+        "pokemon": "Komala",
+        "pokemon_url": "/wiki/Komala_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0784",
+        "pokemon": "Kommo-o",
+        "pokemon_url": "/wiki/Kommo-o_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#1007",
+        "pokemon": "Koraidon",
+        "pokemon_url": "/wiki/Koraidon_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0098",
+        "pokemon": "Krabby",
+        "pokemon_url": "/wiki/Krabby_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0401",
+        "pokemon": "Kricketot",
+        "pokemon_url": "/wiki/Kricketot_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0402",
+        "pokemon": "Kricketune",
+        "pokemon_url": "/wiki/Kricketune_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0552",
+        "pokemon": "Krokorok",
+        "pokemon_url": "/wiki/Krokorok_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0553",
+        "pokemon": "Krookodile",
+        "pokemon_url": "/wiki/Krookodile_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0891",
+        "pokemon": "Kubfu",
+        "pokemon_url": "/wiki/Kubfu_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0382",
+        "pokemon": "Kyogre",
+        "pokemon_url": "/wiki/Kyogre_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0646",
+        "pokemon": "Kyurem",
+        "pokemon_url": "/wiki/Kyurem_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0305",
+        "pokemon": "Lairon",
+        "pokemon_url": "/wiki/Lairon_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0608",
+        "pokemon": "Lampent",
+        "pokemon_url": "/wiki/Lampent_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0645",
+        "pokemon": "Landorus",
+        "pokemon_url": "/wiki/Landorus_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0171",
+        "pokemon": "Lanturn",
+        "pokemon_url": "/wiki/Lanturn_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0131",
+        "pokemon": "Lapras",
+        "pokemon_url": "/wiki/Lapras_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0636",
+        "pokemon": "Larvesta",
+        "pokemon_url": "/wiki/Larvesta_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0246",
+        "pokemon": "Larvitar",
+        "pokemon_url": "/wiki/Larvitar_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0380",
+        "pokemon": "Latias",
+        "pokemon_url": "/wiki/Latias_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0381",
+        "pokemon": "Latios",
+        "pokemon_url": "/wiki/Latios_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0470",
+        "pokemon": "Leafeon",
+        "pokemon_url": "/wiki/Leafeon_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0542",
+        "pokemon": "Leavanny",
+        "pokemon_url": "/wiki/Leavanny_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0915",
+        "pokemon": "Lechonk",
+        "pokemon_url": "/wiki/Lechonk_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0166",
+        "pokemon": "Ledian",
+        "pokemon_url": "/wiki/Ledian_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0165",
+        "pokemon": "Ledyba",
+        "pokemon_url": "/wiki/Ledyba_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0463",
+        "pokemon": "Lickilicky",
+        "pokemon_url": "/wiki/Lickilicky_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0108",
+        "pokemon": "Lickitung",
+        "pokemon_url": "/wiki/Lickitung_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0510",
+        "pokemon": "Liepard",
+        "pokemon_url": "/wiki/Liepard_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0345",
+        "pokemon": "Lileep",
+        "pokemon_url": "/wiki/Lileep_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0549",
+        "pokemon": "Lilligant",
+        "pokemon_url": "/wiki/Lilligant_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0506",
+        "pokemon": "Lillipup",
+        "pokemon_url": "/wiki/Lillipup_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0264",
+        "pokemon": "Linoone",
+        "pokemon_url": "/wiki/Linoone_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0667",
+        "pokemon": "Litleo",
+        "pokemon_url": "/wiki/Litleo_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0725",
+        "pokemon": "Litten",
+        "pokemon_url": "/wiki/Litten_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0607",
+        "pokemon": "Litwick",
+        "pokemon_url": "/wiki/Litwick_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0920",
+        "pokemon": "Lokix",
+        "pokemon_url": "/wiki/Lokix_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0271",
+        "pokemon": "Lombre",
+        "pokemon_url": "/wiki/Lombre_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0428",
+        "pokemon": "Lopunny",
+        "pokemon_url": "/wiki/Lopunny_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0270",
+        "pokemon": "Lotad",
+        "pokemon_url": "/wiki/Lotad_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0294",
+        "pokemon": "Loudred",
+        "pokemon_url": "/wiki/Loudred_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0448",
+        "pokemon": "Lucario",
+        "pokemon_url": "/wiki/Lucario_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0272",
+        "pokemon": "Ludicolo",
+        "pokemon_url": "/wiki/Ludicolo_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0249",
+        "pokemon": "Lugia",
+        "pokemon_url": "/wiki/Lugia_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0457",
+        "pokemon": "Lumineon",
+        "pokemon_url": "/wiki/Lumineon_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0792",
+        "pokemon": "Lunala",
+        "pokemon_url": "/wiki/Lunala_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0337",
+        "pokemon": "Lunatone",
+        "pokemon_url": "/wiki/Lunatone_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0754",
+        "pokemon": "Lurantis",
+        "pokemon_url": "/wiki/Lurantis_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0370",
+        "pokemon": "Luvdisc",
+        "pokemon_url": "/wiki/Luvdisc_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0404",
+        "pokemon": "Luxio",
+        "pokemon_url": "/wiki/Luxio_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0405",
+        "pokemon": "Luxray",
+        "pokemon_url": "/wiki/Luxray_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0745",
+        "pokemon": "Lycanroc",
+        "pokemon_url": "/wiki/Lycanroc_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0943",
+        "pokemon": "Mabosstiff",
+        "pokemon_url": "/wiki/Mabosstiff_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0068",
+        "pokemon": "Machamp",
+        "pokemon_url": "/wiki/Machamp_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0067",
+        "pokemon": "Machoke",
+        "pokemon_url": "/wiki/Machoke_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0066",
+        "pokemon": "Machop",
+        "pokemon_url": "/wiki/Machop_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0240",
+        "pokemon": "Magby",
+        "pokemon_url": "/wiki/Magby_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0219",
+        "pokemon": "Magcargo",
+        "pokemon_url": "/wiki/Magcargo_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0801",
+        "pokemon": "Magearna",
+        "pokemon_url": "/wiki/Magearna_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0129",
+        "pokemon": "Magikarp",
+        "pokemon_url": "/wiki/Magikarp_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0126",
+        "pokemon": "Magmar",
+        "pokemon_url": "/wiki/Magmar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0467",
+        "pokemon": "Magmortar",
+        "pokemon_url": "/wiki/Magmortar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0081",
+        "pokemon": "Magnemite",
+        "pokemon_url": "/wiki/Magnemite_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0082",
+        "pokemon": "Magneton",
+        "pokemon_url": "/wiki/Magneton_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0462",
+        "pokemon": "Magnezone",
+        "pokemon_url": "/wiki/Magnezone_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0296",
+        "pokemon": "Makuhita",
+        "pokemon_url": "/wiki/Makuhita_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0687",
+        "pokemon": "Malamar",
+        "pokemon_url": "/wiki/Malamar_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0473",
+        "pokemon": "Mamoswine",
+        "pokemon_url": "/wiki/Mamoswine_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0490",
+        "pokemon": "Manaphy",
+        "pokemon_url": "/wiki/Manaphy_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0630",
+        "pokemon": "Mandibuzz",
+        "pokemon_url": "/wiki/Mandibuzz_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0310",
+        "pokemon": "Manectric",
+        "pokemon_url": "/wiki/Manectric_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0056",
+        "pokemon": "Mankey",
+        "pokemon_url": "/wiki/Mankey_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0226",
+        "pokemon": "Mantine",
+        "pokemon_url": "/wiki/Mantine_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0458",
+        "pokemon": "Mantyke",
+        "pokemon_url": "/wiki/Mantyke_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0556",
+        "pokemon": "Maractus",
+        "pokemon_url": "/wiki/Maractus_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0747",
+        "pokemon": "Mareanie",
+        "pokemon_url": "/wiki/Mareanie_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0179",
+        "pokemon": "Mareep",
+        "pokemon_url": "/wiki/Mareep_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0183",
+        "pokemon": "Marill",
+        "pokemon_url": "/wiki/Marill_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0105",
+        "pokemon": "Marowak",
+        "pokemon_url": "/wiki/Marowak_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0802",
+        "pokemon": "Marshadow",
+        "pokemon_url": "/wiki/Marshadow_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0259",
+        "pokemon": "Marshtomp",
+        "pokemon_url": "/wiki/Marshtomp_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0942",
+        "pokemon": "Maschiff",
+        "pokemon_url": "/wiki/Maschiff_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0284",
+        "pokemon": "Masquerain",
+        "pokemon_url": "/wiki/Masquerain_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0925",
+        "pokemon": "Maushold",
+        "pokemon_url": "/wiki/Maushold_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0303",
+        "pokemon": "Mawile",
+        "pokemon_url": "/wiki/Mawile_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0308",
+        "pokemon": "Medicham",
+        "pokemon_url": "/wiki/Medicham_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0307",
+        "pokemon": "Meditite",
+        "pokemon_url": "/wiki/Meditite_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0154",
+        "pokemon": "Meganium",
+        "pokemon_url": "/wiki/Meganium_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0809",
+        "pokemon": "Melmetal",
+        "pokemon_url": "/wiki/Melmetal_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0648",
+        "pokemon": "Meloetta",
+        "pokemon_url": "/wiki/Meloetta_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0808",
+        "pokemon": "Meltan",
+        "pokemon_url": "/wiki/Meltan_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0908",
+        "pokemon": "Meowscarada",
+        "pokemon_url": "/wiki/Meowscarada_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0678",
+        "pokemon": "Meowstic",
+        "pokemon_url": "/wiki/Meowstic_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0052",
+        "pokemon": "Meowth",
+        "pokemon_url": "/wiki/Meowth_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0481",
+        "pokemon": "Mesprit",
+        "pokemon_url": "/wiki/Mesprit_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0376",
+        "pokemon": "Metagross",
+        "pokemon_url": "/wiki/Metagross_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0375",
+        "pokemon": "Metang",
+        "pokemon_url": "/wiki/Metang_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0011",
+        "pokemon": "Metapod",
+        "pokemon_url": "/wiki/Metapod_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0151",
+        "pokemon": "Mew",
+        "pokemon_url": "/wiki/Mew_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0150",
+        "pokemon": "Mewtwo",
+        "pokemon_url": "/wiki/Mewtwo_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0619",
+        "pokemon": "Mienfoo",
+        "pokemon_url": "/wiki/Mienfoo_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0620",
+        "pokemon": "Mienshao",
+        "pokemon_url": "/wiki/Mienshao_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0262",
+        "pokemon": "Mightyena",
+        "pokemon_url": "/wiki/Mightyena_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0868",
+        "pokemon": "Milcery",
+        "pokemon_url": "/wiki/Milcery_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0350",
+        "pokemon": "Milotic",
+        "pokemon_url": "/wiki/Milotic_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0241",
+        "pokemon": "Miltank",
+        "pokemon_url": "/wiki/Miltank_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0439",
+        "pokemon": "Mime Jr.",
+        "pokemon_url": "/wiki/Mime_Jr._(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0778",
+        "pokemon": "Mimikyu",
+        "pokemon_url": "/wiki/Mimikyu_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0572",
+        "pokemon": "Minccino",
+        "pokemon_url": "/wiki/Minccino_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0774",
+        "pokemon": "Minior",
+        "pokemon_url": "/wiki/Minior_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0312",
+        "pokemon": "Minun",
+        "pokemon_url": "/wiki/Minun_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#1008",
+        "pokemon": "Miraidon",
+        "pokemon_url": "/wiki/Miraidon_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0200",
+        "pokemon": "Misdreavus",
+        "pokemon_url": "/wiki/Misdreavus_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0429",
+        "pokemon": "Mismagius",
+        "pokemon_url": "/wiki/Mismagius_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0146",
+        "pokemon": "Moltres",
+        "pokemon_url": "/wiki/Moltres_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0391",
+        "pokemon": "Monferno",
+        "pokemon_url": "/wiki/Monferno_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0755",
+        "pokemon": "Morelull",
+        "pokemon_url": "/wiki/Morelull_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0860",
+        "pokemon": "Morgrem",
+        "pokemon_url": "/wiki/Morgrem_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0877",
+        "pokemon": "Morpeko",
+        "pokemon_url": "/wiki/Morpeko_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0414",
+        "pokemon": "Mothim",
+        "pokemon_url": "/wiki/Mothim_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0122",
+        "pokemon": "Mr. Mime",
+        "pokemon_url": "/wiki/Mr._Mime_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0866",
+        "pokemon": "Mr. Rime",
+        "pokemon_url": "/wiki/Mr._Rime_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0749",
+        "pokemon": "Mudbray",
+        "pokemon_url": "/wiki/Mudbray_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0258",
+        "pokemon": "Mudkip",
+        "pokemon_url": "/wiki/Mudkip_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0750",
+        "pokemon": "Mudsdale",
+        "pokemon_url": "/wiki/Mudsdale_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0089",
+        "pokemon": "Muk",
+        "pokemon_url": "/wiki/Muk_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0446",
+        "pokemon": "Munchlax",
+        "pokemon_url": "/wiki/Munchlax_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Munkidori",
+        "pokemon_url": "/wiki/Munkidori_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0517",
+        "pokemon": "Munna",
+        "pokemon_url": "/wiki/Munna_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0198",
+        "pokemon": "Murkrow",
+        "pokemon_url": "/wiki/Murkrow_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0518",
+        "pokemon": "Musharna",
+        "pokemon_url": "/wiki/Musharna_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0932",
+        "pokemon": "Nacli",
+        "pokemon_url": "/wiki/Nacli_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0933",
+        "pokemon": "Naclstack",
+        "pokemon_url": "/wiki/Naclstack_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0804",
+        "pokemon": "Naganadel",
+        "pokemon_url": "/wiki/Naganadel_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0177",
+        "pokemon": "Natu",
+        "pokemon_url": "/wiki/Natu_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0800",
+        "pokemon": "Necrozma",
+        "pokemon_url": "/wiki/Necrozma_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0827",
+        "pokemon": "Nickit",
+        "pokemon_url": "/wiki/Nickit_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0034",
+        "pokemon": "Nidoking",
+        "pokemon_url": "/wiki/Nidoking_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0031",
+        "pokemon": "Nidoqueen",
+        "pokemon_url": "/wiki/Nidoqueen_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0029",
+        "pokemon": "Nidoran♀",
+        "pokemon_url": "/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0032",
+        "pokemon": "Nidoran♂",
+        "pokemon_url": "/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0030",
+        "pokemon": "Nidorina",
+        "pokemon_url": "/wiki/Nidorina_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0033",
+        "pokemon": "Nidorino",
+        "pokemon_url": "/wiki/Nidorino_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0793",
+        "pokemon": "Nihilego",
+        "pokemon_url": "/wiki/Nihilego_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0290",
+        "pokemon": "Nincada",
+        "pokemon_url": "/wiki/Nincada_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0038",
+        "pokemon": "Ninetales",
+        "pokemon_url": "/wiki/Ninetales_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0291",
+        "pokemon": "Ninjask",
+        "pokemon_url": "/wiki/Ninjask_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0164",
+        "pokemon": "Noctowl",
+        "pokemon_url": "/wiki/Noctowl_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0714",
+        "pokemon": "Noibat",
+        "pokemon_url": "/wiki/Noibat_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0715",
+        "pokemon": "Noivern",
+        "pokemon_url": "/wiki/Noivern_(Pok%C3%A9mon)",
+        "type": [
+            "Flying",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0299",
+        "pokemon": "Nosepass",
+        "pokemon_url": "/wiki/Nosepass_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0322",
+        "pokemon": "Numel",
+        "pokemon_url": "/wiki/Numel_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0274",
+        "pokemon": "Nuzleaf",
+        "pokemon_url": "/wiki/Nuzleaf_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0919",
+        "pokemon": "Nymble",
+        "pokemon_url": "/wiki/Nymble_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0862",
+        "pokemon": "Obstagoon",
+        "pokemon_url": "/wiki/Obstagoon_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0224",
+        "pokemon": "Octillery",
+        "pokemon_url": "/wiki/Octillery_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0043",
+        "pokemon": "Oddish",
+        "pokemon_url": "/wiki/Oddish_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Ogerpon",
+        "pokemon_url": "/wiki/Ogerpon_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0916",
+        "pokemon": "Oinkologne",
+        "pokemon_url": "/wiki/Oinkologne_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Okidogi",
+        "pokemon_url": "/wiki/Okidogi_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0138",
+        "pokemon": "Omanyte",
+        "pokemon_url": "/wiki/Omanyte_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0139",
+        "pokemon": "Omastar",
+        "pokemon_url": "/wiki/Omastar_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0095",
+        "pokemon": "Onix",
+        "pokemon_url": "/wiki/Onix_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0765",
+        "pokemon": "Oranguru",
+        "pokemon_url": "/wiki/Oranguru_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0826",
+        "pokemon": "Orbeetle",
+        "pokemon_url": "/wiki/Orbeetle_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0741",
+        "pokemon": "Oricorio",
+        "pokemon_url": "/wiki/Oricorio_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0968",
+        "pokemon": "Orthworm",
+        "pokemon_url": "/wiki/Orthworm_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0501",
+        "pokemon": "Oshawott",
+        "pokemon_url": "/wiki/Oshawott_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0904",
+        "pokemon": "Overqwil",
+        "pokemon_url": "/wiki/Overqwil_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0417",
+        "pokemon": "Pachirisu",
+        "pokemon_url": "/wiki/Pachirisu_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0964",
+        "pokemon": "Palafin",
+        "pokemon_url": "/wiki/Palafin_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0484",
+        "pokemon": "Palkia",
+        "pokemon_url": "/wiki/Palkia_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0770",
+        "pokemon": "Palossand",
+        "pokemon_url": "/wiki/Palossand_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0536",
+        "pokemon": "Palpitoad",
+        "pokemon_url": "/wiki/Palpitoad_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0674",
+        "pokemon": "Pancham",
+        "pokemon_url": "/wiki/Pancham_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0675",
+        "pokemon": "Pangoro",
+        "pokemon_url": "/wiki/Pangoro_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0515",
+        "pokemon": "Panpour",
+        "pokemon_url": "/wiki/Panpour_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0511",
+        "pokemon": "Pansage",
+        "pokemon_url": "/wiki/Pansage_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0513",
+        "pokemon": "Pansear",
+        "pokemon_url": "/wiki/Pansear_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0046",
+        "pokemon": "Paras",
+        "pokemon_url": "/wiki/Paras_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0047",
+        "pokemon": "Parasect",
+        "pokemon_url": "/wiki/Parasect_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0766",
+        "pokemon": "Passimian",
+        "pokemon_url": "/wiki/Passimian_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0504",
+        "pokemon": "Patrat",
+        "pokemon_url": "/wiki/Patrat_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0921",
+        "pokemon": "Pawmi",
+        "pokemon_url": "/wiki/Pawmi_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0922",
+        "pokemon": "Pawmo",
+        "pokemon_url": "/wiki/Pawmo_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0923",
+        "pokemon": "Pawmot",
+        "pokemon_url": "/wiki/Pawmot_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0624",
+        "pokemon": "Pawniard",
+        "pokemon_url": "/wiki/Pawniard_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0279",
+        "pokemon": "Pelipper",
+        "pokemon_url": "/wiki/Pelipper_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0863",
+        "pokemon": "Perrserker",
+        "pokemon_url": "/wiki/Perrserker_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0053",
+        "pokemon": "Persian",
+        "pokemon_url": "/wiki/Persian_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0548",
+        "pokemon": "Petilil",
+        "pokemon_url": "/wiki/Petilil_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0231",
+        "pokemon": "Phanpy",
+        "pokemon_url": "/wiki/Phanpy_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0708",
+        "pokemon": "Phantump",
+        "pokemon_url": "/wiki/Phantump_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0795",
+        "pokemon": "Pheromosa",
+        "pokemon_url": "/wiki/Pheromosa_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0489",
+        "pokemon": "Phione",
+        "pokemon_url": "/wiki/Phione_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0172",
+        "pokemon": "Pichu",
+        "pokemon_url": "/wiki/Pichu_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0018",
+        "pokemon": "Pidgeot",
+        "pokemon_url": "/wiki/Pidgeot_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0017",
+        "pokemon": "Pidgeotto",
+        "pokemon_url": "/wiki/Pidgeotto_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0016",
+        "pokemon": "Pidgey",
+        "pokemon_url": "/wiki/Pidgey_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0519",
+        "pokemon": "Pidove",
+        "pokemon_url": "/wiki/Pidove_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0499",
+        "pokemon": "Pignite",
+        "pokemon_url": "/wiki/Pignite_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0025",
+        "pokemon": "Pikachu",
+        "pokemon_url": "/wiki/Pikachu_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0731",
+        "pokemon": "Pikipek",
+        "pokemon_url": "/wiki/Pikipek_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0221",
+        "pokemon": "Piloswine",
+        "pokemon_url": "/wiki/Piloswine_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0871",
+        "pokemon": "Pincurchin",
+        "pokemon_url": "/wiki/Pincurchin_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0204",
+        "pokemon": "Pineco",
+        "pokemon_url": "/wiki/Pineco_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0127",
+        "pokemon": "Pinsir",
+        "pokemon_url": "/wiki/Pinsir_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0393",
+        "pokemon": "Piplup",
+        "pokemon_url": "/wiki/Piplup_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0311",
+        "pokemon": "Plusle",
+        "pokemon_url": "/wiki/Plusle_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0803",
+        "pokemon": "Poipole",
+        "pokemon_url": "/wiki/Poipole_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0186",
+        "pokemon": "Politoed",
+        "pokemon_url": "/wiki/Politoed_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0060",
+        "pokemon": "Poliwag",
+        "pokemon_url": "/wiki/Poliwag_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0061",
+        "pokemon": "Poliwhirl",
+        "pokemon_url": "/wiki/Poliwhirl_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0062",
+        "pokemon": "Poliwrath",
+        "pokemon_url": "/wiki/Poliwrath_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0855",
+        "pokemon": "Polteageist",
+        "pokemon_url": "/wiki/Polteageist_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0077",
+        "pokemon": "Ponyta",
+        "pokemon_url": "/wiki/Ponyta_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0261",
+        "pokemon": "Poochyena",
+        "pokemon_url": "/wiki/Poochyena_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0728",
+        "pokemon": "Popplio",
+        "pokemon_url": "/wiki/Popplio_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0137",
+        "pokemon": "Porygon",
+        "pokemon_url": "/wiki/Porygon_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0474",
+        "pokemon": "Porygon-Z",
+        "pokemon_url": "/wiki/Porygon-Z_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0233",
+        "pokemon": "Porygon2",
+        "pokemon_url": "/wiki/Porygon2_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0730",
+        "pokemon": "Primarina",
+        "pokemon_url": "/wiki/Primarina_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0057",
+        "pokemon": "Primeape",
+        "pokemon_url": "/wiki/Primeape_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0394",
+        "pokemon": "Prinplup",
+        "pokemon_url": "/wiki/Prinplup_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0476",
+        "pokemon": "Probopass",
+        "pokemon_url": "/wiki/Probopass_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0054",
+        "pokemon": "Psyduck",
+        "pokemon_url": "/wiki/Psyduck_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0710",
+        "pokemon": "Pumpkaboo",
+        "pokemon_url": "/wiki/Pumpkaboo_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0247",
+        "pokemon": "Pupitar",
+        "pokemon_url": "/wiki/Pupitar_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0509",
+        "pokemon": "Purrloin",
+        "pokemon_url": "/wiki/Purrloin_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0432",
+        "pokemon": "Purugly",
+        "pokemon_url": "/wiki/Purugly_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0668",
+        "pokemon": "Pyroar",
+        "pokemon_url": "/wiki/Pyroar_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0771",
+        "pokemon": "Pyukumuku",
+        "pokemon_url": "/wiki/Pyukumuku_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0195",
+        "pokemon": "Quagsire",
+        "pokemon_url": "/wiki/Quagsire_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0914",
+        "pokemon": "Quaquaval",
+        "pokemon_url": "/wiki/Quaquaval_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0912",
+        "pokemon": "Quaxly",
+        "pokemon_url": "/wiki/Quaxly_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0913",
+        "pokemon": "Quaxwell",
+        "pokemon_url": "/wiki/Quaxwell_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0156",
+        "pokemon": "Quilava",
+        "pokemon_url": "/wiki/Quilava_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0651",
+        "pokemon": "Quilladin",
+        "pokemon_url": "/wiki/Quilladin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0211",
+        "pokemon": "Qwilfish",
+        "pokemon_url": "/wiki/Qwilfish_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0814",
+        "pokemon": "Raboot",
+        "pokemon_url": "/wiki/Raboot_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0954",
+        "pokemon": "Rabsca",
+        "pokemon_url": "/wiki/Rabsca_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Raging Bolt",
+        "pokemon_url": "/wiki/Raging_Bolt_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0026",
+        "pokemon": "Raichu",
+        "pokemon_url": "/wiki/Raichu_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0243",
+        "pokemon": "Raikou",
+        "pokemon_url": "/wiki/Raikou_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0280",
+        "pokemon": "Ralts",
+        "pokemon_url": "/wiki/Ralts_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0409",
+        "pokemon": "Rampardos",
+        "pokemon_url": "/wiki/Rampardos_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0078",
+        "pokemon": "Rapidash",
+        "pokemon_url": "/wiki/Rapidash_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0020",
+        "pokemon": "Raticate",
+        "pokemon_url": "/wiki/Raticate_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0019",
+        "pokemon": "Rattata",
+        "pokemon_url": "/wiki/Rattata_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0384",
+        "pokemon": "Rayquaza",
+        "pokemon_url": "/wiki/Rayquaza_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0378",
+        "pokemon": "Regice",
+        "pokemon_url": "/wiki/Regice_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0895",
+        "pokemon": "Regidrago",
+        "pokemon_url": "/wiki/Regidrago_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0894",
+        "pokemon": "Regieleki",
+        "pokemon_url": "/wiki/Regieleki_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0486",
+        "pokemon": "Regigigas",
+        "pokemon_url": "/wiki/Regigigas_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0377",
+        "pokemon": "Regirock",
+        "pokemon_url": "/wiki/Regirock_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0379",
+        "pokemon": "Registeel",
+        "pokemon_url": "/wiki/Registeel_(Pok%C3%A9mon)",
+        "type": [
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0369",
+        "pokemon": "Relicanth",
+        "pokemon_url": "/wiki/Relicanth_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0953",
+        "pokemon": "Rellor",
+        "pokemon_url": "/wiki/Rellor_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0223",
+        "pokemon": "Remoraid",
+        "pokemon_url": "/wiki/Remoraid_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0643",
+        "pokemon": "Reshiram",
+        "pokemon_url": "/wiki/Reshiram_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0579",
+        "pokemon": "Reuniclus",
+        "pokemon_url": "/wiki/Reuniclus_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0966",
+        "pokemon": "Revavroom",
+        "pokemon_url": "/wiki/Revavroom_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0112",
+        "pokemon": "Rhydon",
+        "pokemon_url": "/wiki/Rhydon_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0111",
+        "pokemon": "Rhyhorn",
+        "pokemon_url": "/wiki/Rhyhorn_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0464",
+        "pokemon": "Rhyperior",
+        "pokemon_url": "/wiki/Rhyperior_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0743",
+        "pokemon": "Ribombee",
+        "pokemon_url": "/wiki/Ribombee_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0812",
+        "pokemon": "Rillaboom",
+        "pokemon_url": "/wiki/Rillaboom_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0447",
+        "pokemon": "Riolu",
+        "pokemon_url": "/wiki/Riolu_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#1005",
+        "pokemon": "Roaring Moon",
+        "pokemon_url": "/wiki/Roaring_Moon_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0744",
+        "pokemon": "Rockruff",
+        "pokemon_url": "/wiki/Rockruff_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0524",
+        "pokemon": "Roggenrola",
+        "pokemon_url": "/wiki/Roggenrola_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0837",
+        "pokemon": "Rolycoly",
+        "pokemon_url": "/wiki/Rolycoly_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0821",
+        "pokemon": "Rookidee",
+        "pokemon_url": "/wiki/Rookidee_(Pok%C3%A9mon)",
+        "type": [
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0315",
+        "pokemon": "Roselia",
+        "pokemon_url": "/wiki/Roselia_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0407",
+        "pokemon": "Roserade",
+        "pokemon_url": "/wiki/Roserade_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0479",
+        "pokemon": "Rotom",
+        "pokemon_url": "/wiki/Rotom_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0722",
+        "pokemon": "Rowlet",
+        "pokemon_url": "/wiki/Rowlet_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0627",
+        "pokemon": "Rufflet",
+        "pokemon_url": "/wiki/Rufflet_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0867",
+        "pokemon": "Runerigus",
+        "pokemon_url": "/wiki/Runerigus_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0302",
+        "pokemon": "Sableye",
+        "pokemon_url": "/wiki/Sableye_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0373",
+        "pokemon": "Salamence",
+        "pokemon_url": "/wiki/Salamence_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0757",
+        "pokemon": "Salandit",
+        "pokemon_url": "/wiki/Salandit_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0758",
+        "pokemon": "Salazzle",
+        "pokemon_url": "/wiki/Salazzle_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0503",
+        "pokemon": "Samurott",
+        "pokemon_url": "/wiki/Samurott_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0844",
+        "pokemon": "Sandaconda",
+        "pokemon_url": "/wiki/Sandaconda_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0551",
+        "pokemon": "Sandile",
+        "pokemon_url": "/wiki/Sandile_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0027",
+        "pokemon": "Sandshrew",
+        "pokemon_url": "/wiki/Sandshrew_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0028",
+        "pokemon": "Sandslash",
+        "pokemon_url": "/wiki/Sandslash_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0769",
+        "pokemon": "Sandygast",
+        "pokemon_url": "/wiki/Sandygast_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0989",
+        "pokemon": "Sandy Shocks",
+        "pokemon_url": "/wiki/Sandy_Shocks_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0539",
+        "pokemon": "Sawk",
+        "pokemon_url": "/wiki/Sawk_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0586",
+        "pokemon": "Sawsbuck",
+        "pokemon_url": "/wiki/Sawsbuck_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0664",
+        "pokemon": "Scatterbug",
+        "pokemon_url": "/wiki/Scatterbug_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0254",
+        "pokemon": "Sceptile",
+        "pokemon_url": "/wiki/Sceptile_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0212",
+        "pokemon": "Scizor",
+        "pokemon_url": "/wiki/Scizor_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0545",
+        "pokemon": "Scolipede",
+        "pokemon_url": "/wiki/Scolipede_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0813",
+        "pokemon": "Scorbunny",
+        "pokemon_url": "/wiki/Scorbunny_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0952",
+        "pokemon": "Scovillain",
+        "pokemon_url": "/wiki/Scovillain_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0560",
+        "pokemon": "Scrafty",
+        "pokemon_url": "/wiki/Scrafty_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0559",
+        "pokemon": "Scraggy",
+        "pokemon_url": "/wiki/Scraggy_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0985",
+        "pokemon": "Scream Tail",
+        "pokemon_url": "/wiki/Scream_Tail_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0123",
+        "pokemon": "Scyther",
+        "pokemon_url": "/wiki/Scyther_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0117",
+        "pokemon": "Seadra",
+        "pokemon_url": "/wiki/Seadra_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0119",
+        "pokemon": "Seaking",
+        "pokemon_url": "/wiki/Seaking_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0364",
+        "pokemon": "Sealeo",
+        "pokemon_url": "/wiki/Sealeo_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0273",
+        "pokemon": "Seedot",
+        "pokemon_url": "/wiki/Seedot_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0086",
+        "pokemon": "Seel",
+        "pokemon_url": "/wiki/Seel_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0537",
+        "pokemon": "Seismitoad",
+        "pokemon_url": "/wiki/Seismitoad_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0161",
+        "pokemon": "Sentret",
+        "pokemon_url": "/wiki/Sentret_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0497",
+        "pokemon": "Serperior",
+        "pokemon_url": "/wiki/Serperior_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0496",
+        "pokemon": "Servine",
+        "pokemon_url": "/wiki/Servine_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0336",
+        "pokemon": "Seviper",
+        "pokemon_url": "/wiki/Seviper_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0540",
+        "pokemon": "Sewaddle",
+        "pokemon_url": "/wiki/Sewaddle_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0319",
+        "pokemon": "Sharpedo",
+        "pokemon_url": "/wiki/Sharpedo_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0492",
+        "pokemon": "Shaymin",
+        "pokemon_url": "/wiki/Shaymin_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0292",
+        "pokemon": "Shedinja",
+        "pokemon_url": "/wiki/Shedinja_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0372",
+        "pokemon": "Shelgon",
+        "pokemon_url": "/wiki/Shelgon_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0090",
+        "pokemon": "Shellder",
+        "pokemon_url": "/wiki/Shellder_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0422",
+        "pokemon": "Shellos",
+        "pokemon_url": "/wiki/Shellos_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0616",
+        "pokemon": "Shelmet",
+        "pokemon_url": "/wiki/Shelmet_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0410",
+        "pokemon": "Shieldon",
+        "pokemon_url": "/wiki/Shieldon_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0275",
+        "pokemon": "Shiftry",
+        "pokemon_url": "/wiki/Shiftry_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0756",
+        "pokemon": "Shiinotic",
+        "pokemon_url": "/wiki/Shiinotic_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0403",
+        "pokemon": "Shinx",
+        "pokemon_url": "/wiki/Shinx_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0944",
+        "pokemon": "Shroodle",
+        "pokemon_url": "/wiki/Shroodle_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0285",
+        "pokemon": "Shroomish",
+        "pokemon_url": "/wiki/Shroomish_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0213",
+        "pokemon": "Shuckle",
+        "pokemon_url": "/wiki/Shuckle_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0353",
+        "pokemon": "Shuppet",
+        "pokemon_url": "/wiki/Shuppet_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0561",
+        "pokemon": "Sigilyph",
+        "pokemon_url": "/wiki/Sigilyph_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0266",
+        "pokemon": "Silcoon",
+        "pokemon_url": "/wiki/Silcoon_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0843",
+        "pokemon": "Silicobra",
+        "pokemon_url": "/wiki/Silicobra_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0773",
+        "pokemon": "Silvally",
+        "pokemon_url": "/wiki/Silvally_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0516",
+        "pokemon": "Simipour",
+        "pokemon_url": "/wiki/Simipour_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0512",
+        "pokemon": "Simisage",
+        "pokemon_url": "/wiki/Simisage_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0514",
+        "pokemon": "Simisear",
+        "pokemon_url": "/wiki/Simisear_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0854",
+        "pokemon": "Sinistea",
+        "pokemon_url": "/wiki/Sinistea_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0865",
+        "pokemon": "Sirfetch'd",
+        "pokemon_url": "/wiki/Sirfetch%27d_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0850",
+        "pokemon": "Sizzlipede",
+        "pokemon_url": "/wiki/Sizzlipede_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0227",
+        "pokemon": "Skarmory",
+        "pokemon_url": "/wiki/Skarmory_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0911",
+        "pokemon": "Skeledirge",
+        "pokemon_url": "/wiki/Skeledirge_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0672",
+        "pokemon": "Skiddo",
+        "pokemon_url": "/wiki/Skiddo_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0188",
+        "pokemon": "Skiploom",
+        "pokemon_url": "/wiki/Skiploom_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0300",
+        "pokemon": "Skitty",
+        "pokemon_url": "/wiki/Skitty_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0451",
+        "pokemon": "Skorupi",
+        "pokemon_url": "/wiki/Skorupi_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0690",
+        "pokemon": "Skrelp",
+        "pokemon_url": "/wiki/Skrelp_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0435",
+        "pokemon": "Skuntank",
+        "pokemon_url": "/wiki/Skuntank_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0819",
+        "pokemon": "Skwovet",
+        "pokemon_url": "/wiki/Skwovet_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0289",
+        "pokemon": "Slaking",
+        "pokemon_url": "/wiki/Slaking_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0287",
+        "pokemon": "Slakoth",
+        "pokemon_url": "/wiki/Slakoth_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0705",
+        "pokemon": "Sliggoo",
+        "pokemon_url": "/wiki/Sliggoo_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0988",
+        "pokemon": "Slither Wing",
+        "pokemon_url": "/wiki/Slither_Wing_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0080",
+        "pokemon": "Slowbro",
+        "pokemon_url": "/wiki/Slowbro_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0199",
+        "pokemon": "Slowking",
+        "pokemon_url": "/wiki/Slowking_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0079",
+        "pokemon": "Slowpoke",
+        "pokemon_url": "/wiki/Slowpoke_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0218",
+        "pokemon": "Slugma",
+        "pokemon_url": "/wiki/Slugma_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0685",
+        "pokemon": "Slurpuff",
+        "pokemon_url": "/wiki/Slurpuff_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0235",
+        "pokemon": "Smeargle",
+        "pokemon_url": "/wiki/Smeargle_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0928",
+        "pokemon": "Smoliv",
+        "pokemon_url": "/wiki/Smoliv_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0238",
+        "pokemon": "Smoochum",
+        "pokemon_url": "/wiki/Smoochum_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0215",
+        "pokemon": "Sneasel",
+        "pokemon_url": "/wiki/Sneasel_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0903",
+        "pokemon": "Sneasler",
+        "pokemon_url": "/wiki/Sneasler_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0495",
+        "pokemon": "Snivy",
+        "pokemon_url": "/wiki/Snivy_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0872",
+        "pokemon": "Snom",
+        "pokemon_url": "/wiki/Snom_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0143",
+        "pokemon": "Snorlax",
+        "pokemon_url": "/wiki/Snorlax_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0361",
+        "pokemon": "Snorunt",
+        "pokemon_url": "/wiki/Snorunt_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0459",
+        "pokemon": "Snover",
+        "pokemon_url": "/wiki/Snover_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0209",
+        "pokemon": "Snubbull",
+        "pokemon_url": "/wiki/Snubbull_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0816",
+        "pokemon": "Sobble",
+        "pokemon_url": "/wiki/Sobble_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0791",
+        "pokemon": "Solgaleo",
+        "pokemon_url": "/wiki/Solgaleo_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0577",
+        "pokemon": "Solosis",
+        "pokemon_url": "/wiki/Solosis_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0338",
+        "pokemon": "Solrock",
+        "pokemon_url": "/wiki/Solrock_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0021",
+        "pokemon": "Spearow",
+        "pokemon_url": "/wiki/Spearow_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0897",
+        "pokemon": "Spectrier",
+        "pokemon_url": "/wiki/Spectrier_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0665",
+        "pokemon": "Spewpa",
+        "pokemon_url": "/wiki/Spewpa_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0363",
+        "pokemon": "Spheal",
+        "pokemon_url": "/wiki/Spheal_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0918",
+        "pokemon": "Spidops",
+        "pokemon_url": "/wiki/Spidops_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0167",
+        "pokemon": "Spinarak",
+        "pokemon_url": "/wiki/Spinarak_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0327",
+        "pokemon": "Spinda",
+        "pokemon_url": "/wiki/Spinda_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0442",
+        "pokemon": "Spiritomb",
+        "pokemon_url": "/wiki/Spiritomb_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0325",
+        "pokemon": "Spoink",
+        "pokemon_url": "/wiki/Spoink_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0906",
+        "pokemon": "Sprigatito",
+        "pokemon_url": "/wiki/Sprigatito_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0682",
+        "pokemon": "Spritzee",
+        "pokemon_url": "/wiki/Spritzee_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0931",
+        "pokemon": "Squawkabilly",
+        "pokemon_url": "/wiki/Squawkabilly_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0007",
+        "pokemon": "Squirtle",
+        "pokemon_url": "/wiki/Squirtle_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0805",
+        "pokemon": "Stakataka",
+        "pokemon_url": "/wiki/Stakataka_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0234",
+        "pokemon": "Stantler",
+        "pokemon_url": "/wiki/Stantler_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0398",
+        "pokemon": "Staraptor",
+        "pokemon_url": "/wiki/Staraptor_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0397",
+        "pokemon": "Staravia",
+        "pokemon_url": "/wiki/Staravia_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0396",
+        "pokemon": "Starly",
+        "pokemon_url": "/wiki/Starly_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0121",
+        "pokemon": "Starmie",
+        "pokemon_url": "/wiki/Starmie_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0120",
+        "pokemon": "Staryu",
+        "pokemon_url": "/wiki/Staryu_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0208",
+        "pokemon": "Steelix",
+        "pokemon_url": "/wiki/Steelix_(Pok%C3%A9mon)",
+        "type": [
+            "Steel",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0762",
+        "pokemon": "Steenee",
+        "pokemon_url": "/wiki/Steenee_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0874",
+        "pokemon": "Stonjourner",
+        "pokemon_url": "/wiki/Stonjourner_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0508",
+        "pokemon": "Stoutland",
+        "pokemon_url": "/wiki/Stoutland_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0759",
+        "pokemon": "Stufful",
+        "pokemon_url": "/wiki/Stufful_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0618",
+        "pokemon": "Stunfisk",
+        "pokemon_url": "/wiki/Stunfisk_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0434",
+        "pokemon": "Stunky",
+        "pokemon_url": "/wiki/Stunky_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0185",
+        "pokemon": "Sudowoodo",
+        "pokemon_url": "/wiki/Sudowoodo_(Pok%C3%A9mon)",
+        "type": [
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0245",
+        "pokemon": "Suicune",
+        "pokemon_url": "/wiki/Suicune_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0192",
+        "pokemon": "Sunflora",
+        "pokemon_url": "/wiki/Sunflora_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0191",
+        "pokemon": "Sunkern",
+        "pokemon_url": "/wiki/Sunkern_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0283",
+        "pokemon": "Surskit",
+        "pokemon_url": "/wiki/Surskit_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0333",
+        "pokemon": "Swablu",
+        "pokemon_url": "/wiki/Swablu_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0541",
+        "pokemon": "Swadloon",
+        "pokemon_url": "/wiki/Swadloon_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0317",
+        "pokemon": "Swalot",
+        "pokemon_url": "/wiki/Swalot_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0260",
+        "pokemon": "Swampert",
+        "pokemon_url": "/wiki/Swampert_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0581",
+        "pokemon": "Swanna",
+        "pokemon_url": "/wiki/Swanna_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0277",
+        "pokemon": "Swellow",
+        "pokemon_url": "/wiki/Swellow_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0220",
+        "pokemon": "Swinub",
+        "pokemon_url": "/wiki/Swinub_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0684",
+        "pokemon": "Swirlix",
+        "pokemon_url": "/wiki/Swirlix_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0528",
+        "pokemon": "Swoobat",
+        "pokemon_url": "/wiki/Swoobat_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0700",
+        "pokemon": "Sylveon",
+        "pokemon_url": "/wiki/Sylveon_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0938",
+        "pokemon": "Tadbulb",
+        "pokemon_url": "/wiki/Tadbulb_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0276",
+        "pokemon": "Taillow",
+        "pokemon_url": "/wiki/Taillow_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0663",
+        "pokemon": "Talonflame",
+        "pokemon_url": "/wiki/Talonflame_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0924",
+        "pokemon": "Tandemaus",
+        "pokemon_url": "/wiki/Tandemaus_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0114",
+        "pokemon": "Tangela",
+        "pokemon_url": "/wiki/Tangela_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0465",
+        "pokemon": "Tangrowth",
+        "pokemon_url": "/wiki/Tangrowth_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0787",
+        "pokemon": "Tapu Bulu",
+        "pokemon_url": "/wiki/Tapu_Bulu_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0788",
+        "pokemon": "Tapu Fini",
+        "pokemon_url": "/wiki/Tapu_Fini_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0785",
+        "pokemon": "Tapu Koko",
+        "pokemon_url": "/wiki/Tapu_Koko_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0786",
+        "pokemon": "Tapu Lele",
+        "pokemon_url": "/wiki/Tapu_Lele_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0917",
+        "pokemon": "Tarountula",
+        "pokemon_url": "/wiki/Tarountula_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0978",
+        "pokemon": "Tatsugiri",
+        "pokemon_url": "/wiki/Tatsugiri_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0128",
+        "pokemon": "Tauros",
+        "pokemon_url": "/wiki/Tauros_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0216",
+        "pokemon": "Teddiursa",
+        "pokemon_url": "/wiki/Teddiursa_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0072",
+        "pokemon": "Tentacool",
+        "pokemon_url": "/wiki/Tentacool_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0073",
+        "pokemon": "Tentacruel",
+        "pokemon_url": "/wiki/Tentacruel_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0498",
+        "pokemon": "Tepig",
+        "pokemon_url": "/wiki/Tepig_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0000",
+        "pokemon": "Terapagos",
+        "pokemon_url": "/wiki/Terapagos_(Pok%C3%A9mon)",
+        "type": [
+            "???"
+        ]
+    },
+    {
+        "ndex": "#0639",
+        "pokemon": "Terrakion",
+        "pokemon_url": "/wiki/Terrakion_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0828",
+        "pokemon": "Thievul",
+        "pokemon_url": "/wiki/Thievul_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0538",
+        "pokemon": "Throh",
+        "pokemon_url": "/wiki/Throh_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0642",
+        "pokemon": "Thundurus",
+        "pokemon_url": "/wiki/Thundurus_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0811",
+        "pokemon": "Thwackey",
+        "pokemon_url": "/wiki/Thwackey_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#1003",
+        "pokemon": "Ting-Lu",
+        "pokemon_url": "/wiki/Ting-Lu_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0957",
+        "pokemon": "Tinkatink",
+        "pokemon_url": "/wiki/Tinkatink_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0959",
+        "pokemon": "Tinkaton",
+        "pokemon_url": "/wiki/Tinkaton_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0958",
+        "pokemon": "Tinkatuff",
+        "pokemon_url": "/wiki/Tinkatuff_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0532",
+        "pokemon": "Timburr",
+        "pokemon_url": "/wiki/Timburr_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0564",
+        "pokemon": "Tirtouga",
+        "pokemon_url": "/wiki/Tirtouga_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Rock"
+        ]
+    },
+    {
+        "ndex": "#0948",
+        "pokemon": "Toedscool",
+        "pokemon_url": "/wiki/Toedscool_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0949",
+        "pokemon": "Toedscruel",
+        "pokemon_url": "/wiki/Toedscruel_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0777",
+        "pokemon": "Togedemaru",
+        "pokemon_url": "/wiki/Togedemaru_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0468",
+        "pokemon": "Togekiss",
+        "pokemon_url": "/wiki/Togekiss_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0175",
+        "pokemon": "Togepi",
+        "pokemon_url": "/wiki/Togepi_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0176",
+        "pokemon": "Togetic",
+        "pokemon_url": "/wiki/Togetic_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0255",
+        "pokemon": "Torchic",
+        "pokemon_url": "/wiki/Torchic_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0324",
+        "pokemon": "Torkoal",
+        "pokemon_url": "/wiki/Torkoal_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0641",
+        "pokemon": "Tornadus",
+        "pokemon_url": "/wiki/Tornadus_(Pok%C3%A9mon)",
+        "type": [
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0726",
+        "pokemon": "Torracat",
+        "pokemon_url": "/wiki/Torracat_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0389",
+        "pokemon": "Torterra",
+        "pokemon_url": "/wiki/Torterra_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0158",
+        "pokemon": "Totodile",
+        "pokemon_url": "/wiki/Totodile_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0733",
+        "pokemon": "Toucannon",
+        "pokemon_url": "/wiki/Toucannon_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0748",
+        "pokemon": "Toxapex",
+        "pokemon_url": "/wiki/Toxapex_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0848",
+        "pokemon": "Toxel",
+        "pokemon_url": "/wiki/Toxel_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0454",
+        "pokemon": "Toxicroak",
+        "pokemon_url": "/wiki/Toxicroak_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0849",
+        "pokemon": "Toxtricity",
+        "pokemon_url": "/wiki/Toxtricity_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0520",
+        "pokemon": "Tranquill",
+        "pokemon_url": "/wiki/Tranquill_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0328",
+        "pokemon": "Trapinch",
+        "pokemon_url": "/wiki/Trapinch_(Pok%C3%A9mon)",
+        "type": [
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0252",
+        "pokemon": "Treecko",
+        "pokemon_url": "/wiki/Treecko_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0709",
+        "pokemon": "Trevenant",
+        "pokemon_url": "/wiki/Trevenant_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0357",
+        "pokemon": "Tropius",
+        "pokemon_url": "/wiki/Tropius_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0568",
+        "pokemon": "Trubbish",
+        "pokemon_url": "/wiki/Trubbish_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0732",
+        "pokemon": "Trumbeak",
+        "pokemon_url": "/wiki/Trumbeak_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0763",
+        "pokemon": "Tsareena",
+        "pokemon_url": "/wiki/Tsareena_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0776",
+        "pokemon": "Turtonator",
+        "pokemon_url": "/wiki/Turtonator_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0387",
+        "pokemon": "Turtwig",
+        "pokemon_url": "/wiki/Turtwig_(Pok%C3%A9mon)",
+        "type": [
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0535",
+        "pokemon": "Tympole",
+        "pokemon_url": "/wiki/Tympole_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0602",
+        "pokemon": "Tynamo",
+        "pokemon_url": "/wiki/Tynamo_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0772",
+        "pokemon": "Type: Null",
+        "pokemon_url": "/wiki/Type:_Null_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0157",
+        "pokemon": "Typhlosion",
+        "pokemon_url": "/wiki/Typhlosion_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0248",
+        "pokemon": "Tyranitar",
+        "pokemon_url": "/wiki/Tyranitar_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0697",
+        "pokemon": "Tyrantrum",
+        "pokemon_url": "/wiki/Tyrantrum_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0236",
+        "pokemon": "Tyrogue",
+        "pokemon_url": "/wiki/Tyrogue_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0696",
+        "pokemon": "Tyrunt",
+        "pokemon_url": "/wiki/Tyrunt_(Pok%C3%A9mon)",
+        "type": [
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0197",
+        "pokemon": "Umbreon",
+        "pokemon_url": "/wiki/Umbreon_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0521",
+        "pokemon": "Unfezant",
+        "pokemon_url": "/wiki/Unfezant_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0201",
+        "pokemon": "Unown",
+        "pokemon_url": "/wiki/Unown_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0901",
+        "pokemon": "Ursaluna",
+        "pokemon_url": "/wiki/Ursaluna_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0217",
+        "pokemon": "Ursaring",
+        "pokemon_url": "/wiki/Ursaring_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0892",
+        "pokemon": "Urshifu",
+        "pokemon_url": "/wiki/Urshifu_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting",
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0480",
+        "pokemon": "Uxie",
+        "pokemon_url": "/wiki/Uxie_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0583",
+        "pokemon": "Vanillish",
+        "pokemon_url": "/wiki/Vanillish_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0582",
+        "pokemon": "Vanillite",
+        "pokemon_url": "/wiki/Vanillite_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0584",
+        "pokemon": "Vanilluxe",
+        "pokemon_url": "/wiki/Vanilluxe_(Pok%C3%A9mon)",
+        "type": [
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0134",
+        "pokemon": "Vaporeon",
+        "pokemon_url": "/wiki/Vaporeon_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0965",
+        "pokemon": "Varoom",
+        "pokemon_url": "/wiki/Varoom_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "ndex": "#0976",
+        "pokemon": "Veluza",
+        "pokemon_url": "/wiki/Veluza_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0543",
+        "pokemon": "Venipede",
+        "pokemon_url": "/wiki/Venipede_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0049",
+        "pokemon": "Venomoth",
+        "pokemon_url": "/wiki/Venomoth_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0048",
+        "pokemon": "Venonat",
+        "pokemon_url": "/wiki/Venonat_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0003",
+        "pokemon": "Venusaur",
+        "pokemon_url": "/wiki/Venusaur_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0416",
+        "pokemon": "Vespiquen",
+        "pokemon_url": "/wiki/Vespiquen_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0329",
+        "pokemon": "Vibrava",
+        "pokemon_url": "/wiki/Vibrava_(Pok%C3%A9mon)",
+        "type": [
+            "Ground",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0494",
+        "pokemon": "Victini",
+        "pokemon_url": "/wiki/Victini_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0071",
+        "pokemon": "Victreebel",
+        "pokemon_url": "/wiki/Victreebel_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0288",
+        "pokemon": "Vigoroth",
+        "pokemon_url": "/wiki/Vigoroth_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0738",
+        "pokemon": "Vikavolt",
+        "pokemon_url": "/wiki/Vikavolt_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0045",
+        "pokemon": "Vileplume",
+        "pokemon_url": "/wiki/Vileplume_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0640",
+        "pokemon": "Virizion",
+        "pokemon_url": "/wiki/Virizion_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0666",
+        "pokemon": "Vivillon",
+        "pokemon_url": "/wiki/Vivillon_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0313",
+        "pokemon": "Volbeat",
+        "pokemon_url": "/wiki/Volbeat_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0721",
+        "pokemon": "Volcanion",
+        "pokemon_url": "/wiki/Volcanion_(Pok%C3%A9mon)",
+        "type": [
+            "Fire",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0637",
+        "pokemon": "Volcarona",
+        "pokemon_url": "/wiki/Volcarona_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0100",
+        "pokemon": "Voltorb",
+        "pokemon_url": "/wiki/Voltorb_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0629",
+        "pokemon": "Vullaby",
+        "pokemon_url": "/wiki/Vullaby_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0037",
+        "pokemon": "Vulpix",
+        "pokemon_url": "/wiki/Vulpix_(Pok%C3%A9mon)",
+        "type": [
+            "Fire"
+        ]
+    },
+    {
+        "ndex": "#0320",
+        "pokemon": "Wailmer",
+        "pokemon_url": "/wiki/Wailmer_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0321",
+        "pokemon": "Wailord",
+        "pokemon_url": "/wiki/Wailord_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#1009",
+        "pokemon": "Walking Wake",
+        "pokemon_url": "/wiki/Walking_Wake_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0365",
+        "pokemon": "Walrein",
+        "pokemon_url": "/wiki/Walrein_(Pok%C3%A9mon)",
+        "type": [
+            "Ice",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0008",
+        "pokemon": "Wartortle",
+        "pokemon_url": "/wiki/Wartortle_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0505",
+        "pokemon": "Watchog",
+        "pokemon_url": "/wiki/Watchog_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0940",
+        "pokemon": "Wattrel",
+        "pokemon_url": "/wiki/Wattrel_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0461",
+        "pokemon": "Weavile",
+        "pokemon_url": "/wiki/Weavile_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Ice"
+        ]
+    },
+    {
+        "ndex": "#0013",
+        "pokemon": "Weedle",
+        "pokemon_url": "/wiki/Weedle_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0070",
+        "pokemon": "Weepinbell",
+        "pokemon_url": "/wiki/Weepinbell_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0110",
+        "pokemon": "Weezing",
+        "pokemon_url": "/wiki/Weezing_(Pok%C3%A9mon)",
+        "type": [
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0547",
+        "pokemon": "Whimsicott",
+        "pokemon_url": "/wiki/Whimsicott_(Pok%C3%A9mon)",
+        "type": [
+            "Grass",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0544",
+        "pokemon": "Whirlipede",
+        "pokemon_url": "/wiki/Whirlipede_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Poison"
+        ]
+    },
+    {
+        "ndex": "#0340",
+        "pokemon": "Whiscash",
+        "pokemon_url": "/wiki/Whiscash_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0293",
+        "pokemon": "Whismur",
+        "pokemon_url": "/wiki/Whismur_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0040",
+        "pokemon": "Wigglytuff",
+        "pokemon_url": "/wiki/Wigglytuff_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0960",
+        "pokemon": "Wiglett",
+        "pokemon_url": "/wiki/Wiglett_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0767",
+        "pokemon": "Wimpod",
+        "pokemon_url": "/wiki/Wimpod_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0278",
+        "pokemon": "Wingull",
+        "pokemon_url": "/wiki/Wingull_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0746",
+        "pokemon": "Wishiwashi",
+        "pokemon_url": "/wiki/Wishiwashi_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#1001",
+        "pokemon": "Wo-Chien",
+        "pokemon_url": "/wiki/Wo-Chien_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0202",
+        "pokemon": "Wobbuffet",
+        "pokemon_url": "/wiki/Wobbuffet_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0527",
+        "pokemon": "Woobat",
+        "pokemon_url": "/wiki/Woobat_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0831",
+        "pokemon": "Wooloo",
+        "pokemon_url": "/wiki/Wooloo_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0194",
+        "pokemon": "Wooper",
+        "pokemon_url": "/wiki/Wooper_(Pok%C3%A9mon)",
+        "type": [
+            "Water",
+            "Ground"
+        ]
+    },
+    {
+        "ndex": "#0413",
+        "pokemon": "Wormadam",
+        "pokemon_url": "/wiki/Wormadam_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0961",
+        "pokemon": "Wugtrio",
+        "pokemon_url": "/wiki/Wugtrio_(Pok%C3%A9mon)",
+        "type": [
+            "Water"
+        ]
+    },
+    {
+        "ndex": "#0265",
+        "pokemon": "Wurmple",
+        "pokemon_url": "/wiki/Wurmple_(Pok%C3%A9mon)",
+        "type": [
+            "Bug"
+        ]
+    },
+    {
+        "ndex": "#0360",
+        "pokemon": "Wynaut",
+        "pokemon_url": "/wiki/Wynaut_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0899",
+        "pokemon": "Wyrdeer",
+        "pokemon_url": "/wiki/Wyrdeer_(Pok%C3%A9mon)",
+        "type": [
+            "Normal",
+            "Psychic"
+        ]
+    },
+    {
+        "ndex": "#0178",
+        "pokemon": "Xatu",
+        "pokemon_url": "/wiki/Xatu_(Pok%C3%A9mon)",
+        "type": [
+            "Psychic",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0716",
+        "pokemon": "Xerneas",
+        "pokemon_url": "/wiki/Xerneas_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0796",
+        "pokemon": "Xurkitree",
+        "pokemon_url": "/wiki/Xurkitree_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0562",
+        "pokemon": "Yamask",
+        "pokemon_url": "/wiki/Yamask_(Pok%C3%A9mon)",
+        "type": [
+            "Ghost"
+        ]
+    },
+    {
+        "ndex": "#0835",
+        "pokemon": "Yamper",
+        "pokemon_url": "/wiki/Yamper_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0193",
+        "pokemon": "Yanma",
+        "pokemon_url": "/wiki/Yanma_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0469",
+        "pokemon": "Yanmega",
+        "pokemon_url": "/wiki/Yanmega_(Pok%C3%A9mon)",
+        "type": [
+            "Bug",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0734",
+        "pokemon": "Yungoos",
+        "pokemon_url": "/wiki/Yungoos_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0717",
+        "pokemon": "Yveltal",
+        "pokemon_url": "/wiki/Yveltal_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0888",
+        "pokemon": "Zacian",
+        "pokemon_url": "/wiki/Zacian_(Pok%C3%A9mon)",
+        "type": [
+            "Fairy"
+        ]
+    },
+    {
+        "ndex": "#0889",
+        "pokemon": "Zamazenta",
+        "pokemon_url": "/wiki/Zamazenta_(Pok%C3%A9mon)",
+        "type": [
+            "Fighting"
+        ]
+    },
+    {
+        "ndex": "#0335",
+        "pokemon": "Zangoose",
+        "pokemon_url": "/wiki/Zangoose_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0145",
+        "pokemon": "Zapdos",
+        "pokemon_url": "/wiki/Zapdos_(Pok%C3%A9mon)",
+        "type": [
+            "Electric",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0893",
+        "pokemon": "Zarude",
+        "pokemon_url": "/wiki/Zarude_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Grass"
+        ]
+    },
+    {
+        "ndex": "#0523",
+        "pokemon": "Zebstrika",
+        "pokemon_url": "/wiki/Zebstrika_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0644",
+        "pokemon": "Zekrom",
+        "pokemon_url": "/wiki/Zekrom_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0807",
+        "pokemon": "Zeraora",
+        "pokemon_url": "/wiki/Zeraora_(Pok%C3%A9mon)",
+        "type": [
+            "Electric"
+        ]
+    },
+    {
+        "ndex": "#0263",
+        "pokemon": "Zigzagoon",
+        "pokemon_url": "/wiki/Zigzagoon_(Pok%C3%A9mon)",
+        "type": [
+            "Normal"
+        ]
+    },
+    {
+        "ndex": "#0571",
+        "pokemon": "Zoroark",
+        "pokemon_url": "/wiki/Zoroark_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0570",
+        "pokemon": "Zorua",
+        "pokemon_url": "/wiki/Zorua_(Pok%C3%A9mon)",
+        "type": [
+            "Dark"
+        ]
+    },
+    {
+        "ndex": "#0041",
+        "pokemon": "Zubat",
+        "pokemon_url": "/wiki/Zubat_(Pok%C3%A9mon)",
+        "type": [
+            "Poison",
+            "Flying"
+        ]
+    },
+    {
+        "ndex": "#0634",
+        "pokemon": "Zweilous",
+        "pokemon_url": "/wiki/Zweilous_(Pok%C3%A9mon)",
+        "type": [
+            "Dark",
+            "Dragon"
+        ]
+    },
+    {
+        "ndex": "#0718",
+        "pokemon": "Zygarde",
+        "pokemon_url": "/wiki/Zygarde_(Pok%C3%A9mon)",
+        "type": [
+            "Dragon",
+            "Ground"
+        ]
+    }
+]
