@@ -4,12 +4,13 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"strconv"
 
 	"github.com/gocolly/colly"
 )
 
 type item struct {
-	Ndex       string   `json:"ndex"`
+	Ndex       int      `json:"ndex"`
 	Pokemon    string   `json:"pokemon"`
 	PokemonURL string   `json:"pokemon_url"`
 	Type       []string `json:"type"`
@@ -24,11 +25,12 @@ func main() {
 		h.ForEach("tr", func(_ int, e *colly.HTMLElement) {
 			link := e.DOM.Find("td:nth-child(3) a[href]").AttrOr("href", "0")
 			secType := e.ChildText("td:nth-child(5)")
+			ndex, _ := strconv.Atoi(e.ChildText("td:nth-child(1)"))
 
 			if link != "0" {
 				if secType == "" {
 					item := item{
-						Ndex:       e.ChildText("td:nth-child(1)"),
+						Ndex:       ndex,
 						Pokemon:    e.ChildText("td:nth-child(3)"),
 						PokemonURL: link,
 						Type:       []string{e.ChildText("td:nth-child(4)")},
@@ -36,7 +38,7 @@ func main() {
 					items = append(items, item)
 				} else {
 					item := item{
-						Ndex:       e.ChildText("td:nth-child(1)"),
+						Ndex:       ndex,
 						Pokemon:    e.ChildText("td:nth-child(3)"),
 						PokemonURL: link,
 						Type:       []string{e.ChildText("td:nth-child(4)"), e.ChildText("td:nth-child(5)")},
